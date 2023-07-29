@@ -1,0 +1,16 @@
+{
+  "name": "about-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.66",
+    "vuepress-theme-hope": "^2.0.0-beta.233"
+  }
+}
