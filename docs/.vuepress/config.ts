@@ -10,8 +10,9 @@ export default defineUserConfig({
     ],
     theme: hopeTheme(
         {
-            // 主题选项
-            // ...
+            navbar: [
+                { text: 'About', children: ['/about/'] }
+            ],
         },
         {
             // 主题行为选项 (可选)
