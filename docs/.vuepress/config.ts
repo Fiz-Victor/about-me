@@ -1,5 +1,5 @@
 import { defineUserConfig } from "vuepress";
-import { hopeTheme } from "vuepress-theme-hope";
+import { defaultTheme } from "@vuepress/theme-default";
 
 export default defineUserConfig({
     lang: 'en-US',
@@ -8,14 +8,11 @@ export default defineUserConfig({
     head: [
         ['link', { rel: 'icon', href: 'https://2.gravatar.com/avatar/949b4b017cd9c5b03ec65cfc715c17ec?s=250' }]
     ],
-    theme: hopeTheme(
+    theme: defaultTheme(
         {
             navbar: [
-                { text: 'About', children: ['/about/'] }
+                { text: 'About', link: '/about/' }
             ],
-        },
-        {
-            // 主题行为选项 (可选)
-        },
+        }
     ),
 });
