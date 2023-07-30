@@ -1,0 +1,1 @@
+import{_ as a,o,c as t,a as e,b as c}from"./app-a87f5437.js";const r={},s=e("h1",{id:"how-to-reach-me",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#how-to-reach-me","aria-hidden":"true"},"#"),c(" How to reach me")],-1),n=[s];function _(h,d){return o(),t("div",null,n)}const l=a(r,[["render",_],["__file","social.html.vue"]]);export{l as default};
