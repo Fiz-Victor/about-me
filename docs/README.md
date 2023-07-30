@@ -3,7 +3,7 @@ home: true
 heroText: About me
 heroAlt: OnlyRain233
 tagline: |
-  Also known as Fiz-Victor, 唯雨千凛, Chirin233<br>
+  Also known as Fiz-Victor, 唯雨千凛, AmeChirin<br>
   An average student. Block game enthusiast.
 
 actions:
@@ -18,6 +18,7 @@ footer: |
   <div style="text-align: center;">
   <h2>Visitor count:</h2><br>
   <img src="https://moe-counter.glitch.me/get/@6475578645547358?theme=moebooru">
+  <br>
   <img src="https://me.onlyra1n.top/img/moe.svg">
   </div>
 ---
