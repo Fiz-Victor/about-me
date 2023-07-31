@@ -10,7 +10,9 @@ footer: |
   <h2>Visitor count:</h2><br>
   <img src="https://moe-counter.glitch.me/get/@6475578645547358?theme=moebooru">
   <br>
+  <a href="https://icp.gov.moe/?keyword=20236040" target="_blank" rel="nofollow">
   <img src="https://me.onlyra1n.top/img/moe.svg">
+  </a>
   </div>
 
 actions:
