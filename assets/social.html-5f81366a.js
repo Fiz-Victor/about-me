@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-8fd6cf9e","path":"/about/social.html","title":"How to reach me","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1690742189000,"contributors":[{"name":"OnlyRain233","email":"soda114514@proton.me","commits":1}]},"filePathRelative":"about/social.md"}');export{t as data};
