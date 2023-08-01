@@ -42,15 +42,17 @@
 
 # :iphone: Reach me (/≧▽≦)/
 
-
 - [![Discord](https://img.shields.io/badge/Discord@onlyrain233-5662f6?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/590761803244634113)
 - [![Github](https://img.shields.io/badge/Fiz--Victor-555?&style=for-the-badge&logo=github)](https://github.com/Fiz-Victor)
 - [![Gitlab](https://img.shields.io/badge/FizVic-white?&style=for-the-badge&logo=gitlab&logoColor=fc6d26)](https://discord.com/users/590761803244634113)
 - [![Youtube](https://img.shields.io/badge/Youtube@onlyrain233-f00?&style=for-the-badge&logo=youtube)](https://www.youtube.com/@onlyrain233)
 - [![Mastodon](https://img.shields.io/badge/Mastodon@onlyrain233-191b22?&style=for-the-badge&logo=mastodon)](https://mastodon.social/@onlyrain233)
 - [![Medium](https://img.shields.io/badge/Medium@onlyrain233-eee?&style=for-the-badge&logo=medium&logoColor=292929)](https://medium.com/@onlyrain233)
+- [![StackOverflow](https://img.shields.io/badge/StackOverflow@onlyrain233-white?&style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/22309886/onlyrain233)
+- [![Figma](https://img.shields.io/badge/Figma@onlyrain-black?&style=for-the-badge&logo=figma)](https://www.figma.com/@onlyrain)
 - [![Mail](https://img.shields.io/badge/me@onlyra1n.top-168de2?&style=for-the-badge&logo=mail.ru)](mailto:me@onlyra1n.top)
 
 # :thought_balloon: What I am doing right now 
 
 - :headphones: Learning to compose music
+- :rocket: Hosting minecraft server with my friend
