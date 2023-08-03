@@ -23,7 +23,7 @@
 
 ## :fish: Fishes I touch
 
-啥子不会，只知道摸鱼 (。・ω・。)
+Coding noob (false) (。・ω・。)
 
 # Donations
 
