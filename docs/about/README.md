@@ -57,6 +57,7 @@ Coding noob (false) (。・ω・。)
 - [![My Gravatars](https://img.shields.io/badge/My_Gravatars-white?&style=for-the-badge&logo=gravatar)](https://en.gravatar.com/onlyrain233)
 - [![StackOverflow](https://img.shields.io/badge/StackOverflow@onlyrain233-white?&style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/22309886/onlyrain233)
 - [![Figma](https://img.shields.io/badge/Figma@onlyrain-black?&style=for-the-badge&logo=figma)](https://www.figma.com/@onlyrain)
+- [![Twitch](https://img.shields.io/badge/a__chrn-white?&style=for-the-badge&logo=twitch)](https://www.twitch.tv/fizvec)
 -->
 
 # :thought_balloon: What I am doing right now 
