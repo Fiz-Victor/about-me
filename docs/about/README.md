@@ -1,6 +1,10 @@
-# About me
+# About me 
 
- :hammer_and_wrench: Tools I mess with
+## :telescope: About me
+
+An average high school student. Block game enthusiast.
+
+## :hammer_and_wrench: Tools I mess with
 
 ![](https://img.shields.io/badge/OS-Windows-white?style=flat-square&logo=windows&color=4abf8a)&nbsp;
 ![](https://img.shields.io/badge/Editor-Visual_Studio-white?style=flat-square&logo=visualstudio&color=4abf8a)&nbsp;
@@ -12,9 +16,16 @@
 
 ![Services](https://skillicons.dev/icons?i=github,vercel,cloudflare,gradle)
 
-## :keyboard: Languages I use
+## :keyboard: My Tech Stack
 
 ![Languages](https://skillicons.dev/icons?i=java,js,py,cs,markdown)
+
+## :timer_clock: Timezone
+
+- :earth_americas: GMT+8
+- :zap: Available when:
+  - Mon - Fri: After 21:00
+  - Sat - Sun: Reply in 24 hours (Most cases)
 
 ## :earth_americas: Languages I speak
 

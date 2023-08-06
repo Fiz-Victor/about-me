@@ -30,7 +30,3 @@ actions:
 </div>
 
 ---
-
-### :man_technologist: About me
-
-An average student. Block game enthusiast.
