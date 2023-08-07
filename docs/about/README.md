@@ -4,13 +4,17 @@
 
 An average high school student. Block game enthusiast.
 
+## :desktop_computer: Devices / OS in use
+
+![Windows 11](https://img.shields.io/badge/OS-Windows_11-white?style=flat-square&logo=windows&color=0078d4)&nbsp;
+![MIUI](https://img.shields.io/badge/Android-MIUI-ff9600?style=flat-square&logo=xiaomi&logoColor=ffffff)&nbsp;
+
 ## :hammer_and_wrench: Tools I mess with
 
-![](https://img.shields.io/badge/OS-Windows-white?style=flat-square&logo=windows&color=4abf8a)&nbsp;
-![](https://img.shields.io/badge/Editor-Visual_Studio-white?style=flat-square&logo=visualstudio&color=4abf8a)&nbsp;
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-white?style=flat-square&logo=visualstudiocode&color=4abf8a)&nbsp;
-![](https://img.shields.io/badge/Editor-IntelliJ-white?style=flat-square&logo=IntelliJ+IDEA&color=4abf8a)&nbsp;
-![](https://img.shields.io/badge/VCS-Git-white?style=flat-square&logo=Git&color=4abf8a)&nbsp;
+![Visual Studio](https://img.shields.io/badge/Editor-Visual_Studio-white?style=flat-square&logo=visualstudio&color=4abf8a)&nbsp;
+![VSCode](https://img.shields.io/badge/Editor-Visual_Studio_Code-white?style=flat-square&logo=visualstudiocode&color=4abf8a)&nbsp;
+![IntelliJ](https://img.shields.io/badge/Editor-IntelliJ-white?style=flat-square&logo=IntelliJ+IDEA&color=4abf8a)&nbsp;
+![Git](https://img.shields.io/badge/VCS-Git-white?style=flat-square&logo=Git&color=4abf8a)&nbsp;
 
 ## :placard: Services I use
 
