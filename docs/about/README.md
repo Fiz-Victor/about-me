@@ -1,4 +1,8 @@
-# About me 
+<p style="text-align: center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?pause=1000&width=500&center=true&lines=Hello+there!+This+is+OnlyRain233!" alt="Typing SVG" /></a>
+</p>
+
+# Hello there! :wave:
 
 ## :telescope: About me
 
@@ -40,9 +44,7 @@ An average high school student. Block game enthusiast.
 
 Coding noob (false) (。・ω・。)
 
-# Donations
-
-## :coffee: Buy me a coffee! Sponsor me by...
+## Donations: :coffee: Buy me a coffee! Sponsor me by...
 
 - :construction: TBA...
 
@@ -55,7 +57,7 @@ Coding noob (false) (。・ω・。)
 -->
 
 
-# :iphone: Reach me (/≧▽≦)/
+## :iphone: Reach me (/≧▽≦)/
 
 - [![Discord](https://img.shields.io/badge/Discord@onlyrain233-5662f6?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/590761803244634113)
 - [![Github](https://img.shields.io/badge/Fiz--Victor-555?&style=for-the-badge&logo=github)](https://github.com/Fiz-Victor)
@@ -75,7 +77,7 @@ Coding noob (false) (。・ω・。)
 - [![Twitch](https://img.shields.io/badge/a__chrn-white?&style=for-the-badge&logo=twitch)](https://www.twitch.tv/fizvec)
 -->
 
-# :thought_balloon: What I am doing right now 
+## :thought_balloon: What I am doing right now 
 
 - :headphones: Learning to compose music
 - :rocket: Hosting minecraft server with my friend
