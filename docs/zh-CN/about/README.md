@@ -1,52 +1,52 @@
 <p style="text-align: center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?pause=1000&width=500&center=true&lines=Hello+there!+This+is+OnlyRain233!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?pause=1000&width=500&center=true&lines=你好！我是唯雨千凛！" alt="Typing SVG" /></a>
 </p>
 
-# Hello there! :wave:
+# 你好！ :wave:
 
-## :telescope: About me
+## :telescope: 关于我
 
-An average high school student. Block game enthusiast.
+平平无奇高中牲，方块人一个。
 
-## :desktop_computer: Devices / OS in use
+## :desktop_computer: 我使用的操作系统与设备
 
 ![Windows 11](https://img.shields.io/badge/OS-Windows_11-white?style=flat-square&logo=windows&color=0078d4)&nbsp;
 ![MIUI](https://img.shields.io/badge/Android-MIUI-ff9600?style=flat-square&logo=xiaomi&logoColor=ffffff)&nbsp;
 
-## :hammer_and_wrench: Tools I mess with
+## :hammer_and_wrench: 我折腾的工具
 
 ![Visual Studio](https://img.shields.io/badge/Editor-Visual_Studio-white?style=flat-square&logo=visualstudio&color=4abf8a)&nbsp;
 ![VSCode](https://img.shields.io/badge/Editor-Visual_Studio_Code-white?style=flat-square&logo=visualstudiocode&color=4abf8a)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/Editor-IntelliJ-white?style=flat-square&logo=IntelliJ+IDEA&color=4abf8a)&nbsp;
 ![Git](https://img.shields.io/badge/VCS-Git-white?style=flat-square&logo=Git&color=4abf8a)&nbsp;
 
-## :placard: Services I use
+## :placard: 我使用的服务
 
 ![Services](https://skillicons.dev/icons?i=github,vercel,cloudflare,gradle)
 
-## :keyboard: My Tech Stack
+## :keyboard: 我的技术栈
 
 ![Languages](https://skillicons.dev/icons?i=java,js,py,cs,markdown)
 
-## :timer_clock: Timezone & Available hours
+## :timer_clock: 时区与联系时间
 
 - :earth_americas: GMT+8
-- :zap: Available when:
-  - Mon - Fri: After 21:00
-  - Sat - Sun: Reply in 24 hours (Most cases)
+- :zap: 联系时间:
+  - 周一到周五: 21:00后
+  - 周六周日: 大多数情况下24小时内回复
 
-## :earth_americas: Languages I speak
+## :earth_americas: 我会的语言
 
 ![zh_CN](https://img.shields.io/badge/Chinese_(Simplified)-4abf8a?style=flat-square&label=🏠)&nbsp;
 ![en_US](https://img.shields.io/badge/English_(US)-4abf8a?logo=&style=flat-square)
 
-## :fish: Fishes I touch
+## :fish: 摸鱼
 
-Coding noob (false) (。・ω・。)
+编程菜鸟（雾） (。・ω・。)
 
-## Donations: :coffee: Buy me a coffee! Sponsor me by...
+## 我很可爱，请给我钱
 
-- :construction: TBA...
+- :construction: 板块正在建设中...
 
 <!--
 - [![Wechat or Alipay](https://img.shields.io/badge/Sponsor%20me!-blue?logo=alipay&logoColor=white&style=for-the-badge)](https://onlyra1n.top/pay/)
@@ -57,7 +57,7 @@ Coding noob (false) (。・ω・。)
 -->
 
 
-## :iphone: Reach me (/≧▽≦)/
+## :iphone: 取得联系 (/≧▽≦)/
 
 - [![Discord](https://img.shields.io/badge/Discord@onlyrain233-5662f6?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/590761803244634113)
 - [![Github](https://img.shields.io/badge/Fiz--Victor-555?&style=for-the-badge&logo=github)](https://github.com/Fiz-Victor)
@@ -65,7 +65,7 @@ Coding noob (false) (。・ω・。)
 - [![Youtube](https://img.shields.io/badge/Youtube@onlyrain233-f00?&style=for-the-badge&logo=youtube)](https://www.youtube.com/@onlyrain233)
 - [![Mail](https://img.shields.io/badge/me@onlyra1n.top-168de2?&style=for-the-badge&logo=mail.ru)](mailto:me@onlyra1n.top)
 
-Find more about me in my
+更多联系方式请在我的博客中找到~
 
 <!--
 - [![Soundcloud](https://img.shields.io/badge/Soundcloud@ame__chirin-white?&style=for-the-badge&logo=soundcloud)](https://soundcloud.com/ame_chirin)
@@ -79,7 +79,7 @@ Find more about me in my
 - [![Twitch](https://img.shields.io/badge/a__chrn-white?&style=for-the-badge&logo=twitch)](https://www.twitch.tv/fizvec)
 -->
 
-## :thought_balloon: What I am doing right now 
+## :thought_balloon: 我正在做什么
 
-- :headphones: Learning to compose music
-- :rocket: Hosting minecraft server with my friend
+- :headphones: 学习编曲
+- :rocket: 和好基友开MC服
