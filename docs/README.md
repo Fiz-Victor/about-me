@@ -18,7 +18,7 @@ footer: |
 actions:
   - text: About me
     type: primary
-    link: /about/
+    link: ./about/
   - text: My Blogs
     type: secondary
     link: https://me.onlyra1n.top

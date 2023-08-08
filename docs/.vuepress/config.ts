@@ -20,7 +20,7 @@ export default defineUserConfig({
     theme: defaultTheme(
         {
             navbar: [
-                { text: 'About', link: '/about/' }
+                { text: 'About', link: './about/' }
             ],
         }
     ),

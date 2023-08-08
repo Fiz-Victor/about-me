@@ -18,7 +18,7 @@ footer: |
 actions:
   - text: 关于我
     type: primary
-    link: /about/
+    link: ./about/
   - text: 我的博客
     type: secondary
     link: https://me.onlyra1n.top
