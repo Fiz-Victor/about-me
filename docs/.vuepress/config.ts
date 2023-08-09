@@ -2,6 +2,7 @@ import { defineUserConfig } from "vuepress";
 import { defaultTheme } from "@vuepress/theme-default";
 
 export default defineUserConfig({
+    base: '/',
     locales: {
         '/': {
             lang: 'en-US',
@@ -20,7 +21,7 @@ export default defineUserConfig({
     theme: defaultTheme(
         {
             navbar: [
-                { text: 'About', link: './about/' }
+                { text: 'About', link: '/about/' }
             ],
         }
     ),
