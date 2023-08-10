@@ -6,9 +6,12 @@
 
 ## :telescope: 关于我
 
-平平无奇高中生 一个MC玩家
+平平无奇高中生 一个MC玩家 喜欢看番 :hearts:
 
-现在在彗星端圈出没还有折腾MC模组
+## :chart_with_upwards_trend: 我正在维护的项目
+
+- [Zeitgeist Addon](https://github.com/Fiz-Victor/zeitgeist-addon)
+- [彗星端yyds](https://github.com/MeteorDevelopment/meteor-client)
 
 ## :desktop_computer: 我使用的操作系统与设备
 
@@ -41,7 +44,6 @@
 
 ![zh_CN](https://img.shields.io/badge/Chinese_(Simplified)-4abf8a?style=flat-square&label=🏠)&nbsp;
 ![en_US](https://img.shields.io/badge/English_(US)-4abf8a?logo=&style=flat-square)
-
 ## :fish: 摸鱼
 
 编程菜鸟（雾） (。・ω・。)
@@ -84,5 +86,15 @@
 
 ## :thought_balloon: 我正在做什么
 
-- :headphones: 学习编曲
 - :rocket: 和好基友开MC服
+- :comet: 在彗星端圈出没还 折腾MC模组
+
+## :book: 我在学习的
+
+- ~~摆烂~~
+- 编曲
+
+## :hearts: 我喜欢的
+
+- 几乎所有类型的音乐（看我wyy） :D
+- 写代码! Hacking! 哇库哇酷!

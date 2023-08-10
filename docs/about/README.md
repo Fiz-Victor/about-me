@@ -6,9 +6,12 @@
 
 ## :telescope: About me
 
-An average high school student. Block game enthusiast.
+An average high school student. Block game enthusiast. Love Anime <3
 
-Currently working on minecraft mods.
+## :chart_with_upwards_trend: Projects I am maintaining
+
+- [Zeitgeist Addon](https://github.com/Fiz-Victor/zeitgeist-addon)
+- [Meteor Client](https://github.com/MeteorDevelopment/meteor-client)
 
 ## :desktop_computer: Devices / OS in use
 
@@ -84,5 +87,14 @@ Find more about me in my
 
 ## :thought_balloon: What I am doing right now 
 
-- :headphones: Learning to compose music
 - :rocket: Hosting minecraft server with my friend
+- :comet: Working on minecraft mods
+
+## :book: What I am learning right now
+
+- :headphones: Compose music
+
+## :hearts: What I like...
+
+- Almost all genre of music :D
+- Coding! Hacking! Wakuwaku!
