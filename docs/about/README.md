@@ -8,6 +8,8 @@
 
 An average high school student. Block game enthusiast.
 
+Currently working on minecraft mods.
+
 ## :desktop_computer: Devices / OS in use
 
 ![Windows 11](https://img.shields.io/badge/OS-Windows_11-white?style=flat-square&logo=windows&color=0078d4)&nbsp;
@@ -44,7 +46,7 @@ An average high school student. Block game enthusiast.
 
 Coding noob (false) (。・ω・。)
 
-## Donations: :coffee: Buy me a coffee! Sponsor me by...
+## :coffee: Buy me a coffee! Sponsor me by...
 
 - :construction: TBA...
 
@@ -60,6 +62,7 @@ Coding noob (false) (。・ω・。)
 ## :iphone: Reach me (/≧▽≦)/
 
 - [![Discord](https://img.shields.io/badge/Discord@onlyrain233-5662f6?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/590761803244634113)
+- ![Minecraft](https://img.shields.io/badge/OnlyRain233-gray?&style=for-the-badge&label=Minecraft&labelColor=green)
 - [![Github](https://img.shields.io/badge/Fiz--Victor-555?&style=for-the-badge&logo=github)](https://github.com/Fiz-Victor)
 - [![Gitlab](https://img.shields.io/badge/FizVic-white?&style=for-the-badge&logo=gitlab&logoColor=fc6d26)](https://discord.com/users/590761803244634113)
 - [![Youtube](https://img.shields.io/badge/Youtube@onlyrain233-f00?&style=for-the-badge&logo=youtube)](https://www.youtube.com/@onlyrain233)
