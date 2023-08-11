@@ -2,7 +2,7 @@
 home: true
 heroText: About me
 heroAlt: OnlyRain233
-tagline: A.K.A. Fiz-Victor, AmeChirin, A_CHRN, 唯雨千凛
+tagline: A.K.A. Fiz-Victor, AmeChirin, A_CHRN
   
 footerHtml: true
 footer: |

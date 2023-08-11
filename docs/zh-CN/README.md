@@ -2,7 +2,7 @@
 home: true
 heroText: 关于我
 heroAlt: OnlyRain233
-tagline: 你也可以在别的网站上找到我： Fiz-Victor, AmeChirin, A_CHRN, 唯雨千凛
+tagline: 我的别名： Fiz-Victor, AmeChirin, A_CHRN, 唯雨 千凛
   
 footerHtml: true
 footer: |
@@ -18,6 +18,7 @@ footer: |
 actions:
   - text: 关于我
     type: primary
+    
     link: ./about/
   - text: 我的博客
     type: secondary
