@@ -87,6 +87,7 @@ Find more about me in my
 
 - :rocket: Hosting minecraft server with my friend
 - :comet: Working on minecraft mods
+- :rainbow: Trying to create something interesting
 
 ## :book: What I am learning right now
 

@@ -25,6 +25,6 @@ actions:
 ---
 
 <div style="text-align: center">
-<img src="https://cravatar.cn/avatar/949b4b017cd9c5b03ec65cfc715c17ec?s=128" alt="Avatar" style="border-radius: 50%">
+<img src="https://gravatar.loli.net/avatar/949b4b017cd9c5b03ec65cfc715c17ec?s=128" alt="Avatar" style="border-radius: 50%">
 <h3>Hi, stranger！This is OnlyRain233 ( •̀ ω •́ )✧</h3>
 </div>
