@@ -5,12 +5,12 @@ export default defineUserConfig({
     base: '/',
     locales: {
         '/': {
-            lang: 'en-US',
+            lang: 'English',
             title: "OnlyRain233",
             description: "About me",
         },
         '/zh-CN/': {
-            lang: 'zh-CN',
+            lang: '中文',
             title: "OnlyRain233",
             description: "关于我",
         },
