@@ -5,7 +5,7 @@ const basic = { // 基础设置
     title: '(～￣▽￣)～', // 页面标题
     avatar: 'https://gravatar.loli.net/avatar/949b4b017cd9c5b03ec65cfc715c17ec', // 头像 URL
     name: 'OnlyRain233', // 头像下的昵称
-    sign: '在线讨饭 ( •̀ ω •́ )✧', // 个性签名或提示文字，可使用 HTML 格式
+    sign: '在线要饭 o(〃\'▽\'〃)o', // 个性签名或提示文字，可使用 HTML 格式
     user_page: 'https://github.com/Fiz-Victor', // 点击头像或名字时跳转的链接，留空或删除则不跳转
     footer: '-_-', // 页脚文字，可使用 HTML 格式
     uri_redirect: false // 若收款码 URL 是网址，是否直接跳转而不显示二维码

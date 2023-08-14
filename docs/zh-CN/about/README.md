@@ -2,12 +2,15 @@
 
 ## :telescope: 关于我
 
-平平无奇高中生 一个MC玩家
+平平无奇高中生 住在中国:cn: 一个MC玩家
 
-## :chart_with_upwards_trend: 我正在维护的项目
+## :chart_with_upwards_trend: 我的项目
 
-- [Zeitgeist Addon](https://github.com/Fiz-Victor/zeitgeist-addon)
-- [彗星端yyds](https://github.com/MeteorDevelopment/meteor-client)
+> 划掉的属于暂停更新或无精力更新的
+
+- 彗星端插件：[Zeitgeist Addon](https://github.com/Fiz-Victor/zeitgeist-addon)
+- MC纪端OP：[彗星端](https://github.com/MeteorDevelopment/meteor-client)
+- ~~Fabric端MC远控模组：[Witch](https://github.com/MeteorDevelopment/witch)~~
 
 ## :desktop_computer: 我使用的操作系统与设备
 
@@ -82,6 +85,11 @@
 - :rocket: 和好基友开MC服
 - :comet: 在彗星端圈出没还 折腾MC模组
 - :rainbow: 正在做一些有趣又实用的项目
+
+## :mag: 我想做的
+
+- ~~女装~~（等我高中毕业学再说
+- 日本语本当上手
 
 ## :book: 我在学习的
 

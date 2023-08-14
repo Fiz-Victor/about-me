@@ -19,7 +19,7 @@ actions:
 
 <div style="text-align: center">
 <img src="https://gravatar.loli.net/avatar/949b4b017cd9c5b03ec65cfc715c17ec?s=128" alt="Avatar" style="border-radius: 50%">
-<h3>你好，陌生人！这里是唯雨千凛 OnlyRain233！( •̀ ω •́ )✧</h3>
+<h3>你好，陌生人！这里是唯雨千凛哒 OnlyRain233！( •̀ ω •́ )✧</h3>
 </div>
 
 ---

@@ -2,12 +2,15 @@
 
 ## :telescope: About me
 
-An average high school student. Block game enthusiast.
+An average high school student, living in China :cn:. Block game enthusiast.
 
 ## :chart_with_upwards_trend: Projects I am maintaining
 
-- [Zeitgeist Addon](https://github.com/Fiz-Victor/zeitgeist-addon)
-- [Meteor Client](https://github.com/MeteorDevelopment/meteor-client)
+> strikethrough = discontinued / have no time to update
+
+- Meteor addon: [Zeitgeist Addon](https://github.com/Fiz-Victor/zeitgeist-addon)
+- Minecraft Utility Client: [Meteor Client](https://github.com/MeteorDevelopment/meteor-client)
+- ~~The Fabric Minecraft RAT: [Witch](https://github.com/MeteorDevelopment/witch)~~
 
 ## :desktop_computer: Devices / OS in use
 
@@ -55,7 +58,6 @@ Coding noob (false) (。・ω・。)
 - [![Paypal](https://img.shields.io/badge/Paypal-black?&style=for-the-badge&logo=paypal)](https://www.paypal.com/NotRegistered)
 -->
 
-
 ## :iphone: Reach me (/≧▽≦)/
 
 - [![Discord](https://img.shields.io/badge/Discord@onlyrain233-5662f6?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/590761803244634113)
@@ -84,6 +86,10 @@ Find more about me in my
 - :rocket: Hosting minecraft server with my friend
 - :comet: Working on minecraft mods
 - :rainbow: Trying to create something interesting
+
+## :mag: 我想做的
+
+- Learn Japanese
 
 ## :book: What I am learning right now
 
