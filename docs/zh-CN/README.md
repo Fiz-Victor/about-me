@@ -22,11 +22,14 @@ actions:
 <h3>你好，陌生人！这里是唯雨千凛 OnlyRain233！( •̀ ω •́ )✧</h3>
 </div>
 
+---
+
 <div style="text-align: center;">
-    <h2>访问计数：</h2><br>
+    <h3>访问计数：</h3>
     <img src="https://moe-counter.glitch.me/get/@6475578645547358?theme=moebooru">
-    <br>
-    <a href="https://icp.gov.moe/?keyword=20236040" target="_blank" rel="nofollow">
-    <img src="https://me.onlyra1n.top/assets/img/moe.svg">
-    </a>
+    <p>
+        <a href="https://icp.gov.moe/?keyword=20236040" target="_blank" rel="nofollow">
+        <img src="https://me.onlyra1n.top/assets/img/moe.svg">
+        </a>
+    </p>
 </div>

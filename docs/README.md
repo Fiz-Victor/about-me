@@ -22,13 +22,14 @@ actions:
 <h3>Hi, stranger！This is OnlyRain233 ( •̀ ω •́ )✧</h3>
 </div>
 
-----
+---
 
 <div style="text-align: center;">
-  <h2>Visitor count:</h2><br>
-  <img src="https://moe-counter.glitch.me/get/@6475578645547358?theme=moebooru">
-  <br>
-  <a href="https://icp.gov.moe/?keyword=20236040" target="_blank" rel="nofollow">
-  <img src="https://me.onlyra1n.top/assets/img/moe.svg">
-  </a>
+    <h3>Visitor Count：</h3>
+    <img src="https://moe-counter.glitch.me/get/@6475578645547358?theme=moebooru">
+    <p>
+        <a href="https://icp.gov.moe/?keyword=20236040" target="_blank" rel="nofollow">
+        <img src="https://me.onlyra1n.top/assets/img/moe.svg">
+        </a>
+    </p>
 </div>
