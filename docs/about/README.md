@@ -85,9 +85,10 @@ Find more about me in my
 
 - :rocket: Hosting minecraft server with my friend
 - :comet: Working on minecraft mods
+- :notes: Creating Kawaii Music
 - :rainbow: Trying to create something interesting
 
-## :mag: 我想做的
+## :mag: Things I want to do
 
 - Learn Japanese
 
