@@ -4,6 +4,10 @@
 
 An average high school student, living in China :cn:. Block game enthusiast.
 
+An EDM / Kawaii Music/ Vocaloid Lover!
+
+Interested in AI / Machine Learning (got no time, that sucks)
+
 ## :chart_with_upwards_trend: Projects I am maintaining
 
 > strikethrough = discontinued / have no time to update
@@ -12,7 +16,7 @@ An average high school student, living in China :cn:. Block game enthusiast.
 - Minecraft Utility Client: [Meteor Client](https://github.com/MeteorDevelopment/meteor-client)
 - ~~The Fabric Minecraft RAT: [Witch](https://github.com/MeteorDevelopment/witch)~~
 
-## :desktop_computer: Devices / OS in use
+## :desktop_computer: Devices (Gear) / OS in use
 
 ![Windows 11](https://img.shields.io/badge/OS-Windows_11-white?style=flat-square&logo=windows&color=0078d4)&nbsp;
 ![MIUI](https://img.shields.io/badge/Android-MIUI-ff9600?style=flat-square&logo=xiaomi&logoColor=ffffff)&nbsp;
@@ -46,7 +50,7 @@ An average high school student, living in China :cn:. Block game enthusiast.
 
 ## :fish: Fishes I touch
 
-Coding noob (false) (。・ω・。)
+im coding noob (。・ω・。)
 
 ## :coffee: Buy me a coffee! Sponsor me by...
 
@@ -67,7 +71,7 @@ Coding noob (false) (。・ω・。)
 - [![Youtube](https://img.shields.io/badge/Youtube@onlyrain233-f00?&style=for-the-badge&logo=youtube)](https://www.youtube.com/@onlyrain233)
 - [![Mail](https://img.shields.io/badge/me@onlyra1n.top-168de2?&style=for-the-badge&logo=mail.ru)](mailto:me@onlyra1n.top)
 
-Find more about me in my
+Find more about me in my blogs!
 
 <!--
 - [![Soundcloud](https://img.shields.io/badge/Soundcloud@ame__chirin-white?&style=for-the-badge&logo=soundcloud)](https://soundcloud.com/ame_chirin)
@@ -96,8 +100,37 @@ Find more about me in my
 
 - :headphones: Compose music
 
-## :hearts: What I like...
+## :hearts: What I love...
 
 - Almost all genre of music :D
 - Coding! Hacking! Wakuwaku!
 - Love Anime <3
+- ~~Making Videos~~ shit gonna bailan
+
+## :video_game: Video Games I am playing  (strikethrough = prob not playing rn)
+> **You're right, but I do not play Genshin Impact**
+- Minecraft ofc
+- Town of Salem
+- [~~don't say it~~](http://ඞ.amog.us/)
+
+---
+
+<div style="text-align: center">
+Some nights we feel like dancing
+
+Some nights we feel like crying
+
+Some nights we feel like living
+
+Some nights we feel like dying
+
+Some nights we feel like staying out
+
+Cause we can't stand to be at home
+
+But we'll be alright if we just
+
+Keep moving on
+
+**Moving On - A R I Z O N A**
+</div>

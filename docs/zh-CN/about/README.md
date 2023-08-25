@@ -2,14 +2,18 @@
 
 ## :telescope: 关于我
 
-平平无奇高中生 住在中国:cn: 一个MC玩家
+平平无奇高中生 现居中国 :cn: 一个MC玩家 目前16岁
+
+EDM / Kawaii Music / 术曲 音乐安利人 （歌单网易云上）
+
+对AI/机器学习感兴趣（（没时间搞
 
 ## :chart_with_upwards_trend: 我的项目
 
-> 划掉的属于暂停更新或无精力更新的
+> 划掉的算属于暂停更新或无精力更新的
 
 - 彗星端插件：[Zeitgeist Addon](https://github.com/Fiz-Victor/zeitgeist-addon)
-- MC纪端OP：[彗星端](https://github.com/MeteorDevelopment/meteor-client)
+- MC纪端（划掉：[彗星端](https://github.com/MeteorDevelopment/meteor-client)
 - ~~Fabric端MC远控模组：[Witch](https://github.com/MeteorDevelopment/witch)~~
 
 ## :desktop_computer: 我使用的操作系统与设备
@@ -43,6 +47,7 @@
 
 ![zh_CN](https://img.shields.io/badge/Chinese_(Simplified)-4abf8a?style=flat-square&label=🏠)&nbsp;
 ![en_US](https://img.shields.io/badge/English_(US)-4abf8a?logo=&style=flat-square)
+
 ## :fish: 摸鱼
 
 编程菜鸟（雾） (。・ω・。)
@@ -87,12 +92,12 @@
 - :notes: 创作可爱的音乐
 - :rainbow: 正在做一些有趣又实用的项目
 
-## :mag: 我想做的
+## :mag: 有生之年想做的
 
 - ~~女装~~（等我高中毕业学再说
 - 日本语本当上手
 
-## :book: 我在学习的
+## :book: 目前正在学习
 
 - ~~摆烂~~
 - 编曲
@@ -100,12 +105,13 @@
 ## :hearts: 我喜欢的
 
 - 几乎所有类型的音乐（看我wyy） :D
-- 写代码! Hacking! 哇库哇酷!
+- 写代码! Hacking! 哇库哇库!
 - 喜欢看番 :hearts:
-- ~~不合格车万厨 术术人~~
+- 浓度不大的二次元
+- ~~不合格车万厨~~
 - ~~做视频~~ 摆烂了不想做了
 
-## :video_game: 我正在玩的游戏 （浪线：现在可能不玩）
+## :video_game: 我正在玩的游戏 （划掉：现在可能不玩）
 > **你说的对，但我不玩原神**
 - 14年入坑的MC老玩家
 - Town of Salem
@@ -114,3 +120,25 @@
 - ~~半个音游人~~
 - ~~碧蓝档案~~
 - [~~don't say it~~](http://ඞ.amog.us/)
+
+---
+
+<div style="text-align: center">
+Some nights we feel like dancing
+
+Some nights we feel like crying
+
+Some nights we feel like living
+
+Some nights we feel like dying
+
+Some nights we feel like staying out
+
+Cause we can't stand to be at home
+
+But we'll be alright if we just
+
+Keep moving on
+
+**Moving On - A R I Z O N A**
+</div>
