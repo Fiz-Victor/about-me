@@ -2,7 +2,7 @@
 home: true
 heroText: 关于我
 heroAlt: OnlyRain233
-tagline: 我的别名： Fiz-Victor, AmeChirin, A_CHRN, 唯雨 千凛
+tagline: 我的别名： Fiz-Victor, AmeChirin, A_CHRN, 唯雨-千凛, 千凛丶(千凛~)
 
 actions:
   - text: 关于我
@@ -19,13 +19,13 @@ actions:
 
 <div style="text-align: center">
 <img src="https://gravatar.loli.net/avatar/949b4b017cd9c5b03ec65cfc715c17ec?s=128" alt="Avatar" style="border-radius: 50%">
-<h3>你好，陌生人！这里是唯雨千凛哒 OnlyRain233！( •̀ ω •́ )✧</h3>
+<h3>你好，陌生人！这里是唯雨千凛呀 OnlyRain233！( •̀ ω •́ )✧</h3>
 </div>
 
 ---
 
 <div style="text-align: center;">
-    <h3>访问计数：</h3>
+    <h3>↓访问计数在这里看↓</h3>
     <img src="https://moe-counter.glitch.me/get/@6475578645547358?theme=moebooru">
     <p>
         <a href="https://icp.gov.moe/?keyword=20236040" target="_blank" rel="nofollow">

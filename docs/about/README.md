@@ -4,7 +4,7 @@
 
 An average high school student, living in China :cn:. Block game enthusiast.
 
-An EDM / Kawaii Music/ Vocaloid Lover!
+An ◢◤ / EDM / Kawaii Music/ Vocaloid / Pop Lover!
 
 Interested in AI / Machine Learning (got no time, that sucks)
 
@@ -50,7 +50,7 @@ Interested in AI / Machine Learning (got no time, that sucks)
 
 ## :fish: Fishes I touch
 
-im coding noob (。・ω・。)
+im coding noob o.O (。・ω・。)
 
 ## :coffee: Buy me a coffee! Sponsor me by...
 
@@ -102,7 +102,6 @@ Find more about me in my blogs!
 
 ## :hearts: What I love...
 
-- Almost all genre of music :D
 - Coding! Hacking! Wakuwaku!
 - Love Anime <3
 - ~~Making Videos~~ shit gonna bailan
