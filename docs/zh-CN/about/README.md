@@ -74,7 +74,7 @@
 更多联系方式请在我的博客中找到~
 
 <!--
-- [![Soundcloud](https://img.shields.io/badge/Soundcloud@ame__chirin-white?&style=for-the-badge&logo=soundcloud)](https://soundcloud.com/ame_chirin)
+- [![Soundcloud](https://img.shields.io/badge/Soundcloud@ame__chirin-white?&style=for-the-badge&logo=soundcloud)](https://soundcloud.com/a_chrn)
 - [![Medium](https://img.shields.io/badge/Medium@onlyrain233-eee?&style=for-the-badge&logo=medium&logoColor=292929)](https://medium.com/@onlyrain233)
 - [![Pinterest](https://img.shields.io/badge/Pinterest@onlyrain233-e60023?&style=for-the-badge&logo=pinterest)](https://www.pinterest.com/onlyrain233/)
 - [![Reddit](https://img.shields.io/badge/u%2FAme__Chirin-white?&style=for-the-badge&logo=reddit)](https://www.reddit.com/u/Ame_Chirin)
@@ -87,8 +87,7 @@
 
 ## :thought_balloon: 我正在做什么
 
-- :rocket: 和好基友开MC服
-- :comet: 在彗星端圈出没还 折腾MC模组
+- :comet: 折腾MC模组
 - :notes: 创作可爱的音乐
 - :rainbow: 正在做一些有趣又实用的项目
 

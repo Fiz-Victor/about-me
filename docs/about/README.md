@@ -74,7 +74,7 @@ im coding noob o.O (。・ω・。)
 Find more about me in my blogs!
 
 <!--
-- [![Soundcloud](https://img.shields.io/badge/Soundcloud@ame__chirin-white?&style=for-the-badge&logo=soundcloud)](https://soundcloud.com/ame_chirin)
+- [![Soundcloud](https://img.shields.io/badge/Soundcloud@ame__chirin-white?&style=for-the-badge&logo=soundcloud)](https://soundcloud.com/a_chrn)
 - [![Medium](https://img.shields.io/badge/Medium@onlyrain233-eee?&style=for-the-badge&logo=medium&logoColor=292929)](https://medium.com/@onlyrain233)
 - [![Pinterest](https://img.shields.io/badge/Pinterest@onlyrain233-e60023?&style=for-the-badge&logo=pinterest)](https://www.pinterest.com/onlyrain233/)
 - [![Reddit](https://img.shields.io/badge/u%2FAme__Chirin-white?&style=for-the-badge&logo=reddit)](https://www.reddit.com/u/Ame_Chirin)
@@ -87,7 +87,6 @@ Find more about me in my blogs!
 
 ## :thought_balloon: What I am doing right now 
 
-- :rocket: Hosting minecraft server with my friend
 - :comet: Working on minecraft mods
 - :notes: Creating Kawaii Music
 - :rainbow: Trying to create something interesting
