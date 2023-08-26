@@ -1,4 +1,4 @@
-# Hello there! :wave:
+# Hello there!
 
 ## :telescope: About me
 
