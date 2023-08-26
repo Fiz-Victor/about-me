@@ -71,19 +71,6 @@ im coding noob o.O (。・ω・。)
 - [![Youtube](https://img.shields.io/badge/Youtube@onlyrain233-f00?&style=for-the-badge&logo=youtube)](https://www.youtube.com/@onlyrain233)
 - [![Mail](https://img.shields.io/badge/me@onlyra1n.top-168de2?&style=for-the-badge&logo=mail.ru)](mailto:me@onlyra1n.top)
 
-Find more about me in my blogs!
-
-<!--
-- [![Soundcloud](https://img.shields.io/badge/Soundcloud@ame__chirin-white?&style=for-the-badge&logo=soundcloud)](https://soundcloud.com/a_chrn)
-- [![Medium](https://img.shields.io/badge/Medium@onlyrain233-eee?&style=for-the-badge&logo=medium&logoColor=292929)](https://medium.com/@onlyrain233)
-- [![Pinterest](https://img.shields.io/badge/Pinterest@onlyrain233-e60023?&style=for-the-badge&logo=pinterest)](https://www.pinterest.com/onlyrain233/)
-- [![Reddit](https://img.shields.io/badge/u%2FAme__Chirin-white?&style=for-the-badge&logo=reddit)](https://www.reddit.com/u/Ame_Chirin)
-- [![Mastodon](https://img.shields.io/badge/Mastodon@onlyrain233-191b22?&style=for-the-badge&logo=mastodon)](https://mastodon.social/@onlyrain233)
-- [![My Gravatars](https://img.shields.io/badge/My_Gravatars-white?&style=for-the-badge&logo=gravatar)](https://en.gravatar.com/onlyrain233)
-- [![StackOverflow](https://img.shields.io/badge/StackOverflow@onlyrain233-white?&style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/22309886/onlyrain233)
-- [![Figma](https://img.shields.io/badge/Figma@onlyrain-black?&style=for-the-badge&logo=figma)](https://www.figma.com/@onlyrain)
-- [![Twitch](https://img.shields.io/badge/a__chrn-white?&style=for-the-badge&logo=twitch)](https://www.twitch.tv/fizvec)
--->
 
 ## :thought_balloon: What I am doing right now 
 
