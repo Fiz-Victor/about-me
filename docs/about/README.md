@@ -2,7 +2,7 @@
 
 ## :telescope: About me
 
-An average high school student, living in China :cn:. Block game enthusiast.
+An average high school student (in school), living in China :cn:. Block game enthusiast.
 
 An ◢◤ / EDM / Kawaii Music/ Vocaloid / Pop Lover!
 
