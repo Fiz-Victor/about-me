@@ -89,6 +89,7 @@
 - [![MissKey](https://img.shields.io/badge/MissKey_on_喵窝@onlyrain233-white?&style=for-the-badge&logo=misskey&logoColor=62b6e7)](https://nya.one/@onlyrain233)
 - [![wx](https://img.shields.io/badge/wx-white?&style=for-the-badge&logo=wechat)](巴拉巴拉)
 - [![知乎](https://img.shields.io/badge/知乎@onlyrain233-white?&style=for-the-badge&logo=zhihu)](https://www.zhihu.com/people/onlyrain233)
+- [![酷安](https://img.shields.io/badge/酷安-Coolapk-white?&style=for-the-badge&labelColor=0eae67)](https://www.coolapk.com/u/27222844)
 中英文分割线
 - [![Soundcloud](https://img.shields.io/badge/Soundcloud@ame__chirin-white?&style=for-the-badge&logo=soundcloud)](https://soundcloud.com/a_chrn)
 - [![Medium](https://img.shields.io/badge/Medium@onlyrain233-eee?&style=for-the-badge&logo=medium&logoColor=292929)](https://medium.com/@onlyrain233)
