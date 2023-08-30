@@ -92,6 +92,7 @@ im coding noob o.O (。・ω・。)
 
 - Coding! Hacking! Wakuwaku!
 - Love Anime <3
+- gugugu :dove:
 - ~~Making Videos~~ shit gonna bailan
 
 ## :video_game: Video Games I am playing  (strikethrough = prob not playing rn)
