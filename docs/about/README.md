@@ -4,6 +4,8 @@
 
 An average high school student (in school), living in China :cn:. Block game enthusiast.
 
+Coding (when I got time).
+
 An ◢◤ / EDM / Kawaii Music/ Vocaloid / Pop Lover!
 
 Interested in AI / Machine Learning (got no time, that sucks)
