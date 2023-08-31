@@ -2,7 +2,7 @@
 home: true
 heroText: About me
 heroAlt: OnlyRain233
-tagline: A.K.A. Fiz-Victor, Victor., AmeChirin, A_CHRN
+tagline: "Can also call me as: Fiz-Victor, Victor., AmeChirin, A_CHRN"
 
 actions:
   - text: About me

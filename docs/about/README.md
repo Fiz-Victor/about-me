@@ -47,8 +47,9 @@ Interested in AI / Machine Learning (got no time, that sucks)
 
 ## :earth_americas: Languages I speak
 
-![zh_CN](https://img.shields.io/badge/Chinese_(Simplified)-4abf8a?style=flat-square&label=🏠)&nbsp;
-![en_US](https://img.shields.io/badge/English_(US)-4abf8a?logo=&style=flat-square)
+![zh_CN](https://img.shields.io/badge/Chinese_(Simplified)-4abf8a?style=flat-square&label=🏠简体中文)&nbsp;
+![en_US](https://img.shields.io/badge/English_(US)-4abf8a?logo=&style=flat-square&label=English)
+<!-- ![ja_JP](https://img.shields.io/badge/Japanese-4abf8a?logo=&style=flat-square&label=日本語) -->
 
 ## :fish: Fishes I touch
 
@@ -84,41 +85,21 @@ im coding noob o.O (。・ω・。)
 
 - Learn Japanese
 
-## :book: What I am learning right now
+## :books: What I am learning right now
 
 - :headphones: Compose music
 
 ## :hearts: What I love...
 
-- Coding! Hacking! Wakuwaku!
+- Hacking! Wakuwaku!
+- Loves Coding!
 - Love Anime <3
 - gugugu :dove:
+- Gaming
 - ~~Making Videos~~ shit gonna bailan
 
-## :video_game: Video Games I am playing  (strikethrough = prob not playing rn)
+## :video_game: Video Games I am playing  (strikethrough = prob abandoned)
 > **You're right, but I do not play Genshin Impact**
 - Minecraft ofc
 - Town of Salem
 - [~~don't say it~~](http://ඞ.amog.us/)
-
----
-
-<div style="text-align: center">
-Some nights we feel like dancing
-
-Some nights we feel like crying
-
-Some nights we feel like living
-
-Some nights we feel like dying
-
-Some nights we feel like staying out
-
-Cause we can't stand to be at home
-
-But we'll be alright if we just
-
-Keep moving on
-
-**Moving On - A R I Z O N A**
-</div>

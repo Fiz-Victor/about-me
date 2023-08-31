@@ -49,8 +49,9 @@
 
 ## :earth_americas: 我会的语言
 
-![zh_CN](https://img.shields.io/badge/Chinese_(Simplified)-4abf8a?style=flat-square&label=🏠)&nbsp;
-![en_US](https://img.shields.io/badge/English_(US)-4abf8a?logo=&style=flat-square)
+![zh_CN](https://img.shields.io/badge/Chinese_(Simplified)-4abf8a?style=flat-square&label=🏠简体中文)&nbsp;
+![en_US](https://img.shields.io/badge/English_(US)-4abf8a?logo=&style=flat-square&label=English)
+<!-- ![ja_JP](https://img.shields.io/badge/Japanese-4abf8a?logo=&style=flat-square&label=日本語) -->
 
 ## :fish: 摸鱼
 
@@ -115,21 +116,23 @@
 - ~~女装~~（等我高中毕业学再说
 - 日本语本当上手
 
-## :book: 目前正在学习
+## :books: 目前正在学习
 
 - ~~摆烂~~
 - 编曲
 
 ## :hearts: 我喜欢的
 
-- 写代码! Hacking! 哇库哇库!
+- Hacking! 哇库哇库!
+- 写代码是热爱！
 - 喜欢看番 :hearts:
 - 浓度不大的二次元
 - 咕咕咕 :dove:
+- 玩游戏
 - ~~不合格车万厨~~
 - ~~做视频~~ 摆烂了不想做了
 
-## :video_game: 我正在玩的游戏 （划掉：现在可能不玩）
+## :video_game: 我正在玩的游戏 （划掉：可能弃坑）
 
 > **你说的对，但我不玩原神**
 
@@ -140,25 +143,3 @@
 - ~~半个音游人~~
 - ~~碧蓝档案~~
 - [~~don't say it~~](http://ඞ.amog.us/)
-
----
-
-<div style="text-align: center">
-Some nights we feel like dancing
-
-Some nights we feel like crying
-
-Some nights we feel like living
-
-Some nights we feel like dying
-
-Some nights we feel like staying out
-
-Cause we can't stand to be at home
-
-But we'll be alright if we just
-
-Keep moving on
-
-**Moving On - A R I Z O N A**
-</div>
