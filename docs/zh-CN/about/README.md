@@ -102,7 +102,7 @@
 - [![Instagram](https://img.shields.io/badge/Instagram@itzamechirin-191b22?&style=for-the-badge&logo=instagram)](https://www.instagram.com/itzamechirin)
 - [![StackOverflow](https://img.shields.io/badge/StackOverflow@onlyrain233-white?&style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/22309886/onlyrain233)
 - [![Figma](https://img.shields.io/badge/Figma@onlyrain-black?&style=for-the-badge&logo=figma)](https://www.figma.com/@onlyrain)
-- [![Twitch](https://img.shields.io/badge/a__chrn-white?&style=for-the-badge&logo=twitch)](https://www.twitch.tv/fizvec)
+- [![Twitch](https://img.shields.io/badge/Twitch@amechirin-white?&style=for-the-badge&logo=twitch)](https://www.twitch.tv/amechirin)
 -->
 
 ## :thought_balloon: 我正在做什么
@@ -121,9 +121,9 @@
 - ~~摆烂~~
 - 编曲
 
-## :hearts: 我喜欢的
+## :hearts: 查成分
 
-- Hacking! 哇库哇库!
+- Hacking! wakuwaku!
 - 写代码是热爱！
 - 喜欢看番 :hearts:
 - 浓度不大的二次元
