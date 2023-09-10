@@ -77,12 +77,12 @@
 
 ### **注意：以下平台我主要用中文进行活动**
 
-- [![Q群](https://img.shields.io/badge/Q群@893189730-0093f5?&style=for-the-badge&logo=tencentqq)](https://qm.qq.com/cgi-bin/qm/qr?authKey=LvU%2BILIzjPFPfGIATd0Dv6J60sDoomCdvNGU7VeQFNYfe6ToNB6v8racoy6Oea4H&k=so3GFPnDDNfjZorVIJNuqnDc-GS-T5wY&noverify=0) 
+- [![Q群](https://img.shields.io/badge/闲聊吹水群@893189730-0093f5?&style=for-the-badge&logo=tencentqq)](https://qm.qq.com/cgi-bin/qm/qr?authKey=LvU%2BILIzjPFPfGIATd0Dv6J60sDoomCdvNGU7VeQFNYfe6ToNB6v8racoy6Oea4H&k=so3GFPnDDNfjZorVIJNuqnDc-GS-T5wY&noverify=0)
+- [![电报](https://img.shields.io/badge/电报群组-white?&style=for-the-badge&logo=telegram)](https://t.me/chirins_home)
 - <img src="/assets/img/qr_qq.png" width=128 height=128>
 - [![Gitee](https://img.shields.io/badge/Gitee@onlyrain233-c71d23?&style=for-the-badge&logo=gitee)](https://gitee.com/onlyrain233)
 - [![B站](https://img.shields.io/badge/Bilibili@唯雨--千凛-white?&style=for-the-badge&logo=bilibili)](https://space.bilibili.com/174927495)
-- [![电报](https://img.shields.io/badge/My_Telegram_Group-white?&style=for-the-badge&logo=telegram)](https://t.me/chirins_home)
-- [![蓝鸟](https://img.shields.io/badge/Twitter@OnlyRain233-white?&style=for-the-badge&logo=twitter)](https://twitter.com/OnlyRain233)
+- [![蓝鸟](https://img.shields.io/badge/Twitter_不咋活跃@OnlyRain233-white?&style=for-the-badge&logo=twitter)](https://twitter.com/OnlyRain233)
 - [![死题目](https://img.shields.io/badge/Steam@victor__www-136da0?&style=for-the-badge&logo=steam)](https://steamcommunity.com/id/victor_www)
 - [![蓝P](https://img.shields.io/badge/P站Pixiv-white?&style=for-the-badge&logo=pixiv)](https://www.pixiv.net/users/64711023)
 - [![wyy](https://img.shields.io/badge/网易云-@A--CHRN-white?&style=for-the-badge&labelColor=dd011c)](https://music.163.com/#/user/home?id=8561047586)
@@ -90,7 +90,7 @@
 <!--
 未使用
 - [![MissKey](https://img.shields.io/badge/MissKey_on_喵窝@onlyrain233-white?&style=for-the-badge&logo=misskey&logoColor=62b6e7)](https://nya.one/@onlyrain233)
-- [![wx](https://img.shields.io/badge/wx-white?&style=for-the-badge&logo=wechat)](巴拉巴拉)
+- [![wx](https://img.shields.io/badge/wx-white?&style=for-the-badge&logo=wechat)](!!!!!!!!!TBA!!!!!!)
 - [![知乎](https://img.shields.io/badge/知乎@onlyrain233-white?&style=for-the-badge&logo=zhihu)](https://www.zhihu.com/people/onlyrain233)
 - [![酷安](https://img.shields.io/badge/酷安-Coolapk-white?&style=for-the-badge&labelColor=0eae67)](https://www.coolapk.com/u/27222844)
 中英文分割线
@@ -115,6 +115,7 @@
 
 - ~~女装~~（等我高中毕业学再说
 - 日本语本当上手
+- 成为一名音游人
 
 ## :books: 目前正在学习
 
@@ -128,8 +129,8 @@
 - 喜欢看番 :hearts:
 - 浓度不大的二次元
 - 咕咕咕 :dove:
-- 玩游戏
-- ~~不合格车万厨~~
+- 打游戏
+- 普普通通东方众
 - ~~做视频~~ 摆烂了不想做了
 
 ## :video_game: 我正在玩的游戏 （划掉：可能弃坑）
@@ -139,7 +140,6 @@
 - 14年入坑的MC老玩家
 - Town of Salem
 - ~~L4D2~~
-- ~~CSGO~~
-- ~~半个音游人~~
+- ~~CSGO
 - ~~碧蓝档案~~
 - [~~don't say it~~](http://ඞ.amog.us/)
