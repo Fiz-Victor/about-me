@@ -77,9 +77,8 @@
 
 ### **注意：以下平台我主要用中文进行活动**
 
-- [![Q群](https://img.shields.io/badge/闲聊吹水群@893189730-0093f5?&style=for-the-badge&logo=tencentqq)](https://qm.qq.com/cgi-bin/qm/qr?authKey=LvU%2BILIzjPFPfGIATd0Dv6J60sDoomCdvNGU7VeQFNYfe6ToNB6v8racoy6Oea4H&k=so3GFPnDDNfjZorVIJNuqnDc-GS-T5wY&noverify=0)
+- [![Q群](https://img.shields.io/badge/闲聊吹水群@904616368-0093f5?&style=for-the-badge&logo=tencentqq)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=bsVstl7UyIWYLk22GiaApKupGQB5haF0&authKey=%2BPOWzI6ZTA42YuQwoUeiIp4yKAyGEQR5Go6LUu6KbBHMwmcGsDf%2F78bH6aFC4TBy&noverify=0&group_code=904616368)
 - [![电报](https://img.shields.io/badge/电报群组-white?&style=for-the-badge&logo=telegram)](https://t.me/chirins_home)
-- <img src="/assets/img/qr_qq.png" width=128 height=128>
 - [![Gitee](https://img.shields.io/badge/Gitee@onlyrain233-c71d23?&style=for-the-badge&logo=gitee)](https://gitee.com/onlyrain233)
 - [![B站](https://img.shields.io/badge/Bilibili@唯雨--千凛-white?&style=for-the-badge&logo=bilibili)](https://space.bilibili.com/174927495)
 - [![蓝鸟](https://img.shields.io/badge/Twitter_不咋活跃@OnlyRain233-white?&style=for-the-badge&logo=twitter)](https://twitter.com/OnlyRain233)
