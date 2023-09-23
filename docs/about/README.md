@@ -100,6 +100,7 @@ im coding noob o.O (。・ω・。)
 
 ## :video_game: Video Games I am playing  (strikethrough = prob abandoned)
 > **You're right, but I do not play Genshin Impact**
+> 
 - Minecraft ofc
 - Town of Salem
-- [~~don't say it~~](http://ඞ.amog.us/)
+- [~~sus~~](http://ඞ.amog.us/)

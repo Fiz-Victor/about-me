@@ -78,6 +78,7 @@
 ### **注意：以下平台我主要用中文进行活动**
 
 - [![Q群](https://img.shields.io/badge/闲聊吹水群@904616368-0093f5?&style=for-the-badge&logo=tencentqq)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=bsVstl7UyIWYLk22GiaApKupGQB5haF0&authKey=%2BPOWzI6ZTA42YuQwoUeiIp4yKAyGEQR5Go6LUu6KbBHMwmcGsDf%2F78bH6aFC4TBy&noverify=0&group_code=904616368)
+- ![QQ](https://img.shields.io/badge/QQ@2593828650-0093f5?&style=for-the-badge&logo=tencentqq)]
 - [![电报](https://img.shields.io/badge/电报群组-white?&style=for-the-badge&logo=telegram)](https://t.me/chirins_home)
 - [![Gitee](https://img.shields.io/badge/Gitee@onlyrain233-c71d23?&style=for-the-badge&logo=gitee)](https://gitee.com/onlyrain233)
 - [![B站](https://img.shields.io/badge/Bilibili@唯雨--千凛-white?&style=for-the-badge&logo=bilibili)](https://space.bilibili.com/174927495)
@@ -112,7 +113,7 @@
 
 ## :mag: 有生之年想做的
 
-- ~~女装~~（等我高中毕业学再说
+- ~~女装~~（没钱
 - 日本语本当上手
 - 成为一名音游人
 
@@ -128,9 +129,9 @@
 - 喜欢看番 :hearts:
 - 浓度不大的二次元
 - 咕咕咕 :dove:
-- 打游戏
+- 游戏宅
 - 普普通通东方众
-- ~~做视频~~ 摆烂了不想做了
+- 做视频（作业nmd是真多，看情况吧
 
 ## :video_game: 我正在玩的游戏 （划掉：可能弃坑）
 
@@ -139,6 +140,6 @@
 - 14年入坑的MC老玩家
 - Town of Salem
 - ~~L4D2~~
-- ~~CSGO
 - ~~碧蓝档案~~
-- [~~don't say it~~](http://ඞ.amog.us/)
+- ~~CSGO~~
+- [~~sus~~](http://ඞ.amog.us/)
