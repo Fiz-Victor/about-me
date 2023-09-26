@@ -16,7 +16,7 @@ export default defineUserConfig({
         },
     },
     head: [
-        ['link', { rel: 'icon', href: 'https://gravatar.loli.net/avatar/949b4b017cd9c5b03ec65cfc715c17ec?s=64' }]
+        ['link', { rel: 'icon', href: 'https://cravatar.cn/avatar/949b4b017cd9c5b03ec65cfc715c17ec?s=64' }]
     ],
     theme: defaultTheme(
         {
