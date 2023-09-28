@@ -68,17 +68,21 @@
 
 ## :iphone: 取得联系 (/≧▽≦)/
 
+### **以下平台主要用英文进行活动**
+
+- [![Spotify](https://img.shields.io/badge/Spotify@A--CHRN-1db954?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify.link/O6Wpu2n5sDb)
 - [![Discord](https://img.shields.io/badge/Discord@onlyrain233-5662f6?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/590761803244634113)
 - ![Minecraft](https://img.shields.io/badge/OnlyRain233-gray?&style=for-the-badge&label=Minecraft&labelColor=green)
 - [![Github](https://img.shields.io/badge/Fiz--Victor-555?&style=for-the-badge&logo=github)](https://github.com/Fiz-Victor)
 - [![Gitlab](https://img.shields.io/badge/FizVic-white?&style=for-the-badge&logo=gitlab&logoColor=fc6d26)](https://discord.com/users/590761803244634113)
 - [![Youtube](https://img.shields.io/badge/Youtube@onlyrain233-f00?&style=for-the-badge&logo=youtube)](https://www.youtube.com/@onlyrain233)
 - [![Mail](https://img.shields.io/badge/me@onlyra1n.top-168de2?&style=for-the-badge&logo=mail.ru)](mailto:me@onlyra1n.top)
+- [![Mail](https://img.shields.io/badge/me@onlyra1n.top-168de2?&style=for-the-badge&logo=mail.ru)](mailto:me@onlyra1n.top)
 
-### **注意：以下平台我主要用中文进行活动**
+### **以下平台主要用中文进行活动**
 
 - [![Q群](https://img.shields.io/badge/闲聊吹水群@904616368-0093f5?&style=for-the-badge&logo=tencentqq)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=bsVstl7UyIWYLk22GiaApKupGQB5haF0&authKey=%2BPOWzI6ZTA42YuQwoUeiIp4yKAyGEQR5Go6LUu6KbBHMwmcGsDf%2F78bH6aFC4TBy&noverify=0&group_code=904616368)
-- ![QQ](https://img.shields.io/badge/QQ@2593828650-0093f5?&style=for-the-badge&logo=tencentqq)]
+- ![QQ](https://img.shields.io/badge/QQ@2593828650-3c76c5?&style=for-the-badge&logo=tencentqq)
 - [![电报](https://img.shields.io/badge/电报群组-white?&style=for-the-badge&logo=telegram)](https://t.me/chirins_home)
 - [![Gitee](https://img.shields.io/badge/Gitee@onlyrain233-c71d23?&style=for-the-badge&logo=gitee)](https://gitee.com/onlyrain233)
 - [![B站](https://img.shields.io/badge/Bilibili@唯雨--千凛-white?&style=for-the-badge&logo=bilibili)](https://space.bilibili.com/174927495)
@@ -94,6 +98,7 @@
 - [![知乎](https://img.shields.io/badge/知乎@onlyrain233-white?&style=for-the-badge&logo=zhihu)](https://www.zhihu.com/people/onlyrain233)
 - [![酷安](https://img.shields.io/badge/酷安-Coolapk-white?&style=for-the-badge&labelColor=0eae67)](https://www.coolapk.com/u/27222844)
 中英文分割线
+- [![Newgrounds](https://img.shields.io/badge/Newgrounds@onlyrain233-ff5653?&style=for-the-badge&label=🆖&labelColor=white)](https://onlyrain233.newgrounds.com/)
 - [![Soundcloud](https://img.shields.io/badge/Soundcloud@ame__chirin-white?&style=for-the-badge&logo=soundcloud)](https://soundcloud.com/a_chrn)
 - [![Medium](https://img.shields.io/badge/Medium@onlyrain233-eee?&style=for-the-badge&logo=medium&logoColor=292929)](https://medium.com/@onlyrain233)
 - [![Pinterest](https://img.shields.io/badge/Pinterest@onlyrain233-e60023?&style=for-the-badge&logo=pinterest)](https://www.pinterest.com/onlyrain233/)

@@ -67,6 +67,7 @@ im coding noob o.O (。・ω・。)
 
 ## :iphone: Reach me (/≧▽≦)/
 
+- [![Spotify](https://img.shields.io/badge/Spotify@A--CHRN-1db954?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify.link/O6Wpu2n5sDb)
 - [![Discord](https://img.shields.io/badge/Discord@onlyrain233-5662f6?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/590761803244634113)
 - ![Minecraft](https://img.shields.io/badge/OnlyRain233-gray?&style=for-the-badge&label=Minecraft&labelColor=green)
 - [![Github](https://img.shields.io/badge/Fiz--Victor-555?&style=for-the-badge&logo=github)](https://github.com/Fiz-Victor)
