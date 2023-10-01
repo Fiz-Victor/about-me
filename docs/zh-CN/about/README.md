@@ -77,7 +77,6 @@
 - [![Gitlab](https://img.shields.io/badge/FizVic-white?&style=for-the-badge&logo=gitlab&logoColor=fc6d26)](https://discord.com/users/590761803244634113)
 - [![Youtube](https://img.shields.io/badge/Youtube@onlyrain233-f00?&style=for-the-badge&logo=youtube)](https://www.youtube.com/@onlyrain233)
 - [![Mail](https://img.shields.io/badge/me@onlyra1n.top-168de2?&style=for-the-badge&logo=mail.ru)](mailto:me@onlyra1n.top)
-- [![Mail](https://img.shields.io/badge/me@onlyra1n.top-168de2?&style=for-the-badge&logo=mail.ru)](mailto:me@onlyra1n.top)
 
 ### **以下平台主要用中文进行活动**
 
@@ -86,7 +85,7 @@
 - [![电报](https://img.shields.io/badge/电报群组-white?&style=for-the-badge&logo=telegram)](https://t.me/chirins_home)
 - [![Gitee](https://img.shields.io/badge/Gitee@onlyrain233-c71d23?&style=for-the-badge&logo=gitee)](https://gitee.com/onlyrain233)
 - [![B站](https://img.shields.io/badge/Bilibili@唯雨--千凛-white?&style=for-the-badge&logo=bilibili)](https://space.bilibili.com/174927495)
-- [![蓝鸟](https://img.shields.io/badge/Twitter_不咋活跃@OnlyRain233-white?&style=for-the-badge&logo=twitter)](https://twitter.com/OnlyRain233)
+- [![黑叉](https://img.shields.io/badge/X@OnlyRain233-black?&style=for-the-badge&logo=x)](https://twitter.com/OnlyRain233)
 - [![死题目](https://img.shields.io/badge/Steam@victor__www-136da0?&style=for-the-badge&logo=steam)](https://steamcommunity.com/id/victor_www)
 - [![蓝P](https://img.shields.io/badge/P站Pixiv-white?&style=for-the-badge&logo=pixiv)](https://www.pixiv.net/users/64711023)
 - [![wyy](https://img.shields.io/badge/网易云-@A--CHRN-white?&style=for-the-badge&labelColor=dd011c)](https://music.163.com/#/user/home?id=8561047586)
