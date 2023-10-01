@@ -89,7 +89,6 @@
 - [![死题目](https://img.shields.io/badge/Steam-@victor__www-136da0?&style=for-the-badge&logo=steam)](https://steamcommunity.com/id/victor_www)
 - [![蓝P](https://img.shields.io/badge/P站-Pixiv-white?&style=for-the-badge&logo=pixiv&labelColor=333)](https://www.pixiv.net/users/64711023)
 - [![wyy](https://img.shields.io/badge/网易云-@A--CHRN-dd011c?&style=for-the-badge)](https://music.163.com/#/user/home?id=8561047586)
-- [![wyy](https://img.shields.io/badge/Tumblr-@ame--chirin-001935?&style=for-the-badge&logo=tumblr)](https://www.tumblr.com/ame-chirin)
 
 <!--
 未使用
@@ -98,9 +97,9 @@
 - [![知乎](https://img.shields.io/badge/知乎-@onlyrain233-white?&style=for-the-badge&logo=zhihu)](https://www.zhihu.com/people/onlyrain233)
 - [![酷安](https://img.shields.io/badge/酷安-Coolapk-white?&style=for-the-badge&labelColor=0eae67)](https://www.coolapk.com/u/27222844)
 中英文分割线
+- [![tumblr](https://img.shields.io/badge/Tumblr-@ame--chirin-001935?&style=for-the-badge&logo=tumblr)](https://www.tumblr.com/ame-chirin)
 - [![Newgrounds](https://img.shields.io/badge/Newgrounds-@onlyrain233-ff5653?&style=for-the-badge&label=🆖&labelColor=white)](https://onlyrain233.newgrounds.com/)
 - [![Soundcloud](https://img.shields.io/badge/Soundcloud-@ame__chirin-white?&style=for-the-badge&logo=soundcloud)](https://soundcloud.com/a_chrn)
-- [![Medium](https://img.shields.io/badge/Medium-@onlyrain233-eee?&style=for-the-badge&logo=medium&logoColor=292929)](https://medium.com/@onlyrain233)
 - [![Pinterest](https://img.shields.io/badge/Pinterest-@onlyrain233-e60023?&style=for-the-badge&logo=pinterest)](https://www.pinterest.com/onlyrain233/)
 - [![Reddit](https://img.shields.io/badge/Reddit-@u%2FAme__Chirin-white?&style=for-the-badge&logo=reddit)](https://www.reddit.com/u/Ame_Chirin)
 - [![Mastodon](https://img.shields.io/badge/Mastodon-@onlyrain233-191b22?&style=for-the-badge&logo=mastodon)](https://mastodon.social/@onlyrain233)
