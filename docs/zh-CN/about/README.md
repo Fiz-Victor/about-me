@@ -70,43 +70,44 @@
 
 ### **以下平台主要用英文进行活动**
 
-- [![Spotify](https://img.shields.io/badge/Spotify@A--CHRN-1db954?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify.link/O6Wpu2n5sDb)
-- [![Discord](https://img.shields.io/badge/Discord@onlyrain233-5662f6?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/590761803244634113)
-- ![Minecraft](https://img.shields.io/badge/OnlyRain233-gray?&style=for-the-badge&label=Minecraft&labelColor=green)
-- [![Github](https://img.shields.io/badge/Fiz--Victor-555?&style=for-the-badge&logo=github)](https://github.com/Fiz-Victor)
-- [![Gitlab](https://img.shields.io/badge/FizVic-white?&style=for-the-badge&logo=gitlab&logoColor=fc6d26)](https://discord.com/users/590761803244634113)
-- [![Youtube](https://img.shields.io/badge/Youtube@onlyrain233-f00?&style=for-the-badge&logo=youtube)](https://www.youtube.com/@onlyrain233)
-- [![Mail](https://img.shields.io/badge/me@onlyra1n.top-168de2?&style=for-the-badge&logo=mail.ru)](mailto:me@onlyra1n.top)
+- [![Spotify](https://img.shields.io/badge/Spotify-@A--CHRN-1db954?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify.link/O6Wpu2n5sDb)
+- [![Discord](https://img.shields.io/badge/Discord-@onlyrain233-5662f6?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/590761803244634113)
+- ![Minecraft](https://img.shields.io/badge/MC-@OnlyRain233-green?&style=for-the-badge)
+- [![Github](https://img.shields.io/badge/Github-@Fiz--Victor-white?&style=for-the-badge&logo=github)](https://github.com/Fiz-Victor)
+- [![Gitlab](https://img.shields.io/badge/Gitlab-@FizVic-white?&style=for-the-badge&logo=gitlab&logoColor=fc6d26)](https://discord.com/users/590761803244634113)
+- [![Youtube](https://img.shields.io/badge/Youtube-@onlyrain233-f00?&style=for-the-badge&logo=youtube)](https://www.youtube.com/@onlyrain233)
+- [![Mail](https://img.shields.io/badge/Email-me@onlyra1n.top-168de2?&style=for-the-badge&logo=mail.ru)](mailto:me@onlyra1n.top)
 
 ### **以下平台主要用中文进行活动**
 
-- [![Q群](https://img.shields.io/badge/闲聊吹水群@904616368-0093f5?&style=for-the-badge&logo=tencentqq)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=bsVstl7UyIWYLk22GiaApKupGQB5haF0&authKey=%2BPOWzI6ZTA42YuQwoUeiIp4yKAyGEQR5Go6LUu6KbBHMwmcGsDf%2F78bH6aFC4TBy&noverify=0&group_code=904616368)
-- ![QQ](https://img.shields.io/badge/QQ@2593828650-3c76c5?&style=for-the-badge&logo=tencentqq)
-- [![电报](https://img.shields.io/badge/电报群组-white?&style=for-the-badge&logo=telegram)](https://t.me/chirins_home)
-- [![Gitee](https://img.shields.io/badge/Gitee@onlyrain233-c71d23?&style=for-the-badge&logo=gitee)](https://gitee.com/onlyrain233)
-- [![B站](https://img.shields.io/badge/Bilibili@唯雨--千凛-white?&style=for-the-badge&logo=bilibili)](https://space.bilibili.com/174927495)
-- [![黑叉](https://img.shields.io/badge/X@OnlyRain233-black?&style=for-the-badge&logo=x)](https://twitter.com/OnlyRain233)
-- [![死题目](https://img.shields.io/badge/Steam@victor__www-136da0?&style=for-the-badge&logo=steam)](https://steamcommunity.com/id/victor_www)
-- [![蓝P](https://img.shields.io/badge/P站Pixiv-white?&style=for-the-badge&logo=pixiv)](https://www.pixiv.net/users/64711023)
-- [![wyy](https://img.shields.io/badge/网易云-@A--CHRN-white?&style=for-the-badge&labelColor=dd011c)](https://music.163.com/#/user/home?id=8561047586)
+- [![Q群](https://img.shields.io/badge/闲聊吹水群-@904616368-0093f5?&style=for-the-badge&logo=tencentqq)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=bsVstl7UyIWYLk22GiaApKupGQB5haF0&authKey=%2BPOWzI6ZTA42YuQwoUeiIp4yKAyGEQR5Go6LUu6KbBHMwmcGsDf%2F78bH6aFC4TBy&noverify=0&group_code=904616368)
+- ![QQ](https://img.shields.io/badge/QQ-@2593828650-3c76c5?&style=for-the-badge&logo=tencentqq)
+- [![电报](https://img.shields.io/badge/电报-群组-white?&style=for-the-badge&logo=telegram)](https://t.me/chirins_home)
+- [![Gitee](https://img.shields.io/badge/Gitee-@onlyrain233-c71d23?&style=for-the-badge&logo=gitee)](https://gitee.com/onlyrain233)
+- [![B站](https://img.shields.io/badge/Bilibili-@唯雨--千凛-white?&style=for-the-badge&logo=bilibili)](https://space.bilibili.com/174927495)
+- [![黑叉](https://img.shields.io/badge/X-@OnlyRain233-black?&style=for-the-badge&logo=x)](https://twitter.com/OnlyRain233)
+- [![死题目](https://img.shields.io/badge/Steam-@victor__www-136da0?&style=for-the-badge&logo=steam)](https://steamcommunity.com/id/victor_www)
+- [![蓝P](https://img.shields.io/badge/P站-Pixiv-white?&style=for-the-badge&logo=pixiv&labelColor=333)](https://www.pixiv.net/users/64711023)
+- [![wyy](https://img.shields.io/badge/网易云-@A--CHRN-dd011c?&style=for-the-badge)](https://music.163.com/#/user/home?id=8561047586)
+- [![wyy](https://img.shields.io/badge/Tumblr-@ame--chirin-001935?&style=for-the-badge&logo=tumblr)](https://www.tumblr.com/ame-chirin)
 
 <!--
 未使用
-- [![MissKey](https://img.shields.io/badge/MissKey_on_喵窝@onlyrain233-white?&style=for-the-badge&logo=misskey&logoColor=62b6e7)](https://nya.one/@onlyrain233)
+- [![MissKey](https://img.shields.io/badge/MissKey_on_喵窝-@onlyrain233-white?&style=for-the-badge&logo=misskey&logoColor=62b6e7)](https://nya.one/@onlyrain233)
 - [![wx](https://img.shields.io/badge/wx-white?&style=for-the-badge&logo=wechat)](!!!!!!!!!TBA!!!!!!)
-- [![知乎](https://img.shields.io/badge/知乎@onlyrain233-white?&style=for-the-badge&logo=zhihu)](https://www.zhihu.com/people/onlyrain233)
+- [![知乎](https://img.shields.io/badge/知乎-@onlyrain233-white?&style=for-the-badge&logo=zhihu)](https://www.zhihu.com/people/onlyrain233)
 - [![酷安](https://img.shields.io/badge/酷安-Coolapk-white?&style=for-the-badge&labelColor=0eae67)](https://www.coolapk.com/u/27222844)
 中英文分割线
-- [![Newgrounds](https://img.shields.io/badge/Newgrounds@onlyrain233-ff5653?&style=for-the-badge&label=🆖&labelColor=white)](https://onlyrain233.newgrounds.com/)
-- [![Soundcloud](https://img.shields.io/badge/Soundcloud@ame__chirin-white?&style=for-the-badge&logo=soundcloud)](https://soundcloud.com/a_chrn)
-- [![Medium](https://img.shields.io/badge/Medium@onlyrain233-eee?&style=for-the-badge&logo=medium&logoColor=292929)](https://medium.com/@onlyrain233)
-- [![Pinterest](https://img.shields.io/badge/Pinterest@onlyrain233-e60023?&style=for-the-badge&logo=pinterest)](https://www.pinterest.com/onlyrain233/)
-- [![Reddit](https://img.shields.io/badge/u%2FAme__Chirin-white?&style=for-the-badge&logo=reddit)](https://www.reddit.com/u/Ame_Chirin)
-- [![Mastodon](https://img.shields.io/badge/Mastodon@onlyrain233-191b22?&style=for-the-badge&logo=mastodon)](https://mastodon.social/@onlyrain233)
-- [![Instagram](https://img.shields.io/badge/Instagram@itzamechirin-191b22?&style=for-the-badge&logo=instagram)](https://www.instagram.com/itzamechirin)
-- [![StackOverflow](https://img.shields.io/badge/StackOverflow@onlyrain233-white?&style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/22309886/onlyrain233)
-- [![Figma](https://img.shields.io/badge/Figma@onlyrain-black?&style=for-the-badge&logo=figma)](https://www.figma.com/@onlyrain)
-- [![Twitch](https://img.shields.io/badge/Twitch@amechirin-white?&style=for-the-badge&logo=twitch)](https://www.twitch.tv/amechirin)
+- [![Newgrounds](https://img.shields.io/badge/Newgrounds-@onlyrain233-ff5653?&style=for-the-badge&label=🆖&labelColor=white)](https://onlyrain233.newgrounds.com/)
+- [![Soundcloud](https://img.shields.io/badge/Soundcloud-@ame__chirin-white?&style=for-the-badge&logo=soundcloud)](https://soundcloud.com/a_chrn)
+- [![Medium](https://img.shields.io/badge/Medium-@onlyrain233-eee?&style=for-the-badge&logo=medium&logoColor=292929)](https://medium.com/@onlyrain233)
+- [![Pinterest](https://img.shields.io/badge/Pinterest-@onlyrain233-e60023?&style=for-the-badge&logo=pinterest)](https://www.pinterest.com/onlyrain233/)
+- [![Reddit](https://img.shields.io/badge/Reddit-@u%2FAme__Chirin-white?&style=for-the-badge&logo=reddit)](https://www.reddit.com/u/Ame_Chirin)
+- [![Mastodon](https://img.shields.io/badge/Mastodon-@onlyrain233-191b22?&style=for-the-badge&logo=mastodon)](https://mastodon.social/@onlyrain233)
+- [![Instagram](https://img.shields.io/badge/Instagram-@itzamechirin-191b22?&style=for-the-badge&logo=instagram)](https://www.instagram.com/itzamechirin)
+- [![StackOverflow](https://img.shields.io/badge/StackOverflow-@onlyrain233-white?&style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/22309886/onlyrain233)
+- [![Figma](https://img.shields.io/badge/Figma-@onlyrain-black?&style=for-the-badge&logo=figma)](https://www.figma.com/@onlyrain)
+- [![Twitch](https://img.shields.io/badge/Twitch-@amechirin-white?&style=for-the-badge&logo=twitch)](https://www.twitch.tv/amechirin)
 -->
 
 ## :thought_balloon: 我正在做什么
@@ -119,7 +120,7 @@
 
 - ~~女装~~（没钱
 - 日本语本当上手
-- 成为一名音游人
+- 成为音游人！
 
 ## :books: 目前正在学习
 

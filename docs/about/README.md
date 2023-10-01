@@ -67,13 +67,13 @@ im coding noob o.O (。・ω・。)
 
 ## :iphone: Reach me (/≧▽≦)/
 
-- [![Spotify](https://img.shields.io/badge/Spotify@A--CHRN-1db954?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify.link/O6Wpu2n5sDb)
-- [![Discord](https://img.shields.io/badge/Discord@onlyrain233-5662f6?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/590761803244634113)
-- ![Minecraft](https://img.shields.io/badge/OnlyRain233-gray?&style=for-the-badge&label=Minecraft&labelColor=green)
-- [![Github](https://img.shields.io/badge/Fiz--Victor-555?&style=for-the-badge&logo=github)](https://github.com/Fiz-Victor)
-- [![Gitlab](https://img.shields.io/badge/FizVic-white?&style=for-the-badge&logo=gitlab&logoColor=fc6d26)](https://discord.com/users/590761803244634113)
-- [![Youtube](https://img.shields.io/badge/Youtube@onlyrain233-f00?&style=for-the-badge&logo=youtube)](https://www.youtube.com/@onlyrain233)
-- [![Mail](https://img.shields.io/badge/me@onlyra1n.top-168de2?&style=for-the-badge&logo=mail.ru)](mailto:me@onlyra1n.top)
+- [![Spotify](https://img.shields.io/badge/Spotify-@A--CHRN-1db954?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify.link/O6Wpu2n5sDb)
+- [![Discord](https://img.shields.io/badge/Discord-@onlyrain233-5662f6?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/590761803244634113)
+- ![Minecraft](https://img.shields.io/badge/MC-@OnlyRain233-green?&style=for-the-badge)
+- [![Github](https://img.shields.io/badge/Github-@Fiz--Victor-white?&style=for-the-badge&logo=github)](https://github.com/Fiz-Victor)
+- [![Gitlab](https://img.shields.io/badge/Gitlab-@FizVic-white?&style=for-the-badge&logo=gitlab&logoColor=fc6d26)](https://discord.com/users/590761803244634113)
+- [![Youtube](https://img.shields.io/badge/Youtube-@onlyrain233-f00?&style=for-the-badge&logo=youtube)](https://www.youtube.com/@onlyrain233)
+- [![Mail](https://img.shields.io/badge/Email-me@onlyra1n.top-168de2?&style=for-the-badge&logo=mail.ru)](mailto:me@onlyra1n.top)
 
 
 ## :thought_balloon: What I am doing right now 
