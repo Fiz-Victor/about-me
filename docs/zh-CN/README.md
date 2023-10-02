@@ -2,7 +2,7 @@
 home: true
 heroText: 关于我
 heroAlt: OnlyRain233
-tagline: 也可以叫我： Fiz-Victor, Victor., AmeChirin, A_CHRN, 唯雨-千凛, 千凛丶(千凛~)、 菲兹QwQ，WY_千凛
+tagline: 也可以叫我： Fiz-Victor, Victor., AmeChirin, A_CHRN, 千凛丶、 菲兹QwQ，WY_凛
 
 actions:
   - text: 关于我
@@ -19,7 +19,7 @@ actions:
 
 <div style="text-align: center">
 <img src="https://cravatar.cn/avatar/949b4b017cd9c5b03ec65cfc715c17ec?s=250" alt="Avatar" style="border-radius: 50%">
-<h3>你好，陌生人！这里是唯雨千凛呀 OnlyRain233！( •̀ ω •́ )✧</h3>
+<h3>你好，陌生人！这里是唯雨千凛 OnlyRain233！( •̀ ω •́ )✧</h3>
 </div>
 
 ---
