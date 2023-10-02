@@ -59,12 +59,6 @@ im coding noob o.O (。・ω・。)
 
 - :construction: TBA...
 
-<!--
-- [![Ko-Fi](https://img.shields.io/badge/Buy_me_a_coffee-white?&style=for-the-badge&logo=ko-fi)](https://ko-fi.com/onlyrain233)
-- [![Patreon](https://img.shields.io/badge/Patreon-black?&style=for-the-badge&logo=patreon)](https://www.patreon.com/onlyrain233)
-- [![Paypal](https://img.shields.io/badge/Paypal-black?&style=for-the-badge&logo=paypal)](https://www.paypal.com/NotRegistered)
--->
-
 ## :iphone: Reach me (/≧▽≦)/
 
 - [![Spotify](https://img.shields.io/badge/Spotify-@A--CHRN-1db954?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify.link/O6Wpu2n5sDb)
