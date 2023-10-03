@@ -2,13 +2,13 @@
 
 ## :telescope: 关于我
 
-平平无奇高中生 (上学中) 现居中国 :cn: 一个MC玩家 目前16岁
+16岁，是平平无奇高中生 (在读) 现居中国 :cn: 
 
 平日里没啥事就去~~写bug（划掉~~
 
 ◢◤ / EDM / Kawaii Music / 术曲 / Pop 音乐安利人 喜欢的成分挺多 （看我网易云）
 
-对AI/机器学习感兴趣（（没时间搞
+对AI/机器学习感兴趣（SD-WebUI，vits等工具
 
 ## :chart_with_upwards_trend: 我的项目
 
@@ -29,7 +29,8 @@
 &nbsp;
 ![VSCode](https://img.shields.io/badge/Editor-Visual_Studio_Code-white?style=flat-square&logo=visualstudiocode&color=4abf8a)
 &nbsp;
-![IntelliJ](https://img.shields.io/badge/Editor-IntelliJ-white?style=flat-square&logo=IntelliJ+IDEA&color=4abf8a)&nbsp;
+![IntelliJ](https://img.shields.io/badge/Editor-IntelliJ-white?style=flat-square&logo=IntelliJ+IDEA&color=4abf8a)
+&nbsp;
 ![Git](https://img.shields.io/badge/VCS-Git-white?style=flat-square&logo=Git&color=4abf8a)&nbsp;
 
 ## :placard: 我使用的服务
@@ -40,18 +41,21 @@
 
 ![Languages](https://skillicons.dev/icons?i=java,js,py,cs,markdown)
 
-## :timer_clock: 时区与联系时间
+## :brain: 想学/正在学习的技能
 
-- :earth_americas: GMT+8
+![BlahBlahBlah](https://skillicons.dev/icons?i=ae,aws,gcp,nginx,mongodb,php,blender,c,cpp,cmake,figma,godot,ps,pr,ai,unity)
+
+## :timer_clock: 时区、联系时间和语言
+
+- :earth_americas: 时区: GMT+8
 - :zap: 联系时间:
     - 周一到周五: 21:00后
     - 周六周日: 大多数情况下24小时内回复
+- :checkered_flag: 语言
+  - ![zh_CN](https://img.shields.io/badge/Chinese_(Simplified)-4abf8a?style=flat-square&label=🏠简体中文)&nbsp;
+  - ![en_US](https://img.shields.io/badge/English_(US)-4abf8a?logo=&style=flat-square&label=English)
+<!--  - ![ja_JP](https://img.shields.io/badge/Japanese-4abf8a?logo=&style=flat-square&label=日本語) -->
 
-## :earth_americas: 我会的语言
-
-![zh_CN](https://img.shields.io/badge/Chinese_(Simplified)-4abf8a?style=flat-square&label=🏠简体中文)&nbsp;
-![en_US](https://img.shields.io/badge/English_(US)-4abf8a?logo=&style=flat-square&label=English)
-<!-- ![ja_JP](https://img.shields.io/badge/Japanese-4abf8a?logo=&style=flat-square&label=日本語) -->
 
 ## :fish: 摸鱼
 
@@ -75,13 +79,15 @@
 
 - [![Spotify](https://img.shields.io/badge/Spotify-@A--CHRN-1db954?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify.link/O6Wpu2n5sDb)
 - [![Discord](https://img.shields.io/badge/Discord-@onlyrain233-5662f6?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/590761803244634113)
-- ![Minecraft](https://img.shields.io/badge/MC-@OnlyRain233-green?&style=for-the-badge)
+- ![Minecraft](https://img.shields.io/badge/MC-@lkwi-green?&style=for-the-badge)
 - [![Github](https://img.shields.io/badge/Github-@Fiz--Victor-white?&style=for-the-badge&logo=github)](https://github.com/Fiz-Victor)
 - [![Gitlab](https://img.shields.io/badge/Gitlab-@FizVic-white?&style=for-the-badge&logo=gitlab&logoColor=fc6d26)](https://discord.com/users/590761803244634113)
 - [![Youtube](https://img.shields.io/badge/Youtube-@onlyrain233-f00?&style=for-the-badge&logo=youtube)](https://www.youtube.com/@onlyrain233)
 - [![Mail](https://img.shields.io/badge/Email-me@onlyra1n.top-168de2?&style=for-the-badge&logo=mail.ru)](mailto:me@onlyra1n.top)
 
 ### **以下平台主要用中文进行活动**
+
+> 我不用微博和KOOK.
 
 - [![Q群](https://img.shields.io/badge/闲聊吹水群-@904616368-0093f5?&style=for-the-badge&logo=tencentqq)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=bsVstl7UyIWYLk22GiaApKupGQB5haF0&authKey=%2BPOWzI6ZTA42YuQwoUeiIp4yKAyGEQR5Go6LUu6KbBHMwmcGsDf%2F78bH6aFC4TBy&noverify=0&group_code=904616368)
 - ![QQ](https://img.shields.io/badge/QQ-@2593828650-3c76c5?&style=for-the-badge&logo=tencentqq)
@@ -122,6 +128,7 @@
 
 - ~~女装~~（没钱
 - 日本语本当上手
+- 顺着网线来找你，很快就到你家门口:rage:
 
 ## :books: 目前正在学习
 

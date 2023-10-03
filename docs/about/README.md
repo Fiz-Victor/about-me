@@ -2,13 +2,7 @@
 
 ## :telescope: About me
 
-An average high school student (in school), living in China :cn:. Block game enthusiast.
-
-Coding (when I got time).
-
-An ◢◤ / EDM / Kawaii Music/ Vocaloid / Pop Lover!
-
-Interested in AI / Machine Learning (got no time, that sucks)
+An average high school student (in school), living in China :cn: 16 y/o
 
 ## :chart_with_upwards_trend: Projects I am maintaining
 
@@ -38,22 +32,20 @@ Interested in AI / Machine Learning (got no time, that sucks)
 
 ![Languages](https://skillicons.dev/icons?i=java,js,py,cs,markdown)
 
+## :brain: Skills I'm learning / want to learn
+
+![BlahBlahBlah](https://skillicons.dev/icons?i=ae,aws,gcp,nginx,mongodb,php,blender,c,cpp,cmake,figma,godot,ps,pr,ai,unity)
+
 ## :timer_clock: Timezone & Available hours
 
 - :earth_americas: GMT+8
 - :zap: Available when:
   - Mon - Fri: After 21:00
   - Sat - Sun: Reply in 24 hours (Most cases)
-
-## :earth_americas: Languages I speak
-
-![zh_CN](https://img.shields.io/badge/Chinese_(Simplified)-4abf8a?style=flat-square&label=🏠简体中文)&nbsp;
-![en_US](https://img.shields.io/badge/English_(US)-4abf8a?logo=&style=flat-square&label=English)
-<!-- ![ja_JP](https://img.shields.io/badge/Japanese-4abf8a?logo=&style=flat-square&label=日本語) -->
-
-## :fish: Fishes I touch
-
-im coding noob o.O (。・ω・。)
+- :checkered_flag: Language
+  - ![zh_CN](https://img.shields.io/badge/Chinese_(Simplified)-4abf8a?style=flat-square&label=🏠简体中文)&nbsp;
+  - ![en_US](https://img.shields.io/badge/English_(US)-4abf8a?logo=&style=flat-square&label=English)
+<!--  - ![ja_JP](https://img.shields.io/badge/Japanese-4abf8a?logo=&style=flat-square&label=日本語) -->
 
 ## :coffee: Buy me a coffee! Sponsor me by...
 
@@ -63,39 +55,11 @@ im coding noob o.O (。・ω・。)
 
 - [![Spotify](https://img.shields.io/badge/Spotify-@A--CHRN-1db954?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify.link/O6Wpu2n5sDb)
 - [![Discord](https://img.shields.io/badge/Discord-@onlyrain233-5662f6?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/590761803244634113)
-- ![Minecraft](https://img.shields.io/badge/MC-@OnlyRain233-green?&style=for-the-badge)
+- ![Minecraft](https://img.shields.io/badge/MC-@lkwi-green?&style=for-the-badge)
 - [![Github](https://img.shields.io/badge/Github-@Fiz--Victor-white?&style=for-the-badge&logo=github)](https://github.com/Fiz-Victor)
 - [![Gitlab](https://img.shields.io/badge/Gitlab-@FizVic-white?&style=for-the-badge&logo=gitlab&logoColor=fc6d26)](https://discord.com/users/590761803244634113)
 - [![Youtube](https://img.shields.io/badge/Youtube-@onlyrain233-f00?&style=for-the-badge&logo=youtube)](https://www.youtube.com/@onlyrain233)
 - [![Mail](https://img.shields.io/badge/Email-me@onlyra1n.top-168de2?&style=for-the-badge&logo=mail.ru)](mailto:me@onlyra1n.top)
 
-
-## :thought_balloon: What I am doing right now 
-
-- :comet: Working on minecraft mods
-- :notes: Creating Kawaii Music
-- :rainbow: Trying to create something interesting
-
-## :mag: Things I want to do
-
-- Learn Japanese
-
-## :books: What I am learning right now
-
-- :headphones: Compose music
-
-## :hearts: What I love...
-
-- Hacking! Wakuwaku!
-- Loves Coding!
-- Love Anime <3
-- gugugu :dove:
-- Gaming
-- ~~Making Videos~~ shit gonna bailan
-
-## :video_game: Video Games I am playing  (strikethrough = prob abandoned)
-> **You're right, but I do not play Genshin Impact**
-> 
-- Minecraft ofc
-- Town of Salem
-- [~~sus~~](http://ඞ.amog.us/)
+> 本页面可能更新不及时，本页面仅提供联系途径，赞助方式，技术栈和我的bio，详细请切换至简体中文
+> Content might not be up to date, this page only provides contact method, sponsor links, tech stack and my bio, for further information check out my zh-CN page.
