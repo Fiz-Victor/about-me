@@ -6,10 +6,6 @@
 
 平日里没啥事就去~~写bug（划掉~~
 
-◢◤ / EDM / Kawaii Music / 术曲 / Pop 音乐安利人 喜欢的成分挺多 （看我网易云）
-
-对AI/机器学习感兴趣（SD-WebUI，vits等工具
-
 ## :chart_with_upwards_trend: 我的项目
 
 > 划掉的算属于暂停更新或无精力更新的
@@ -137,6 +133,7 @@
 
 ## :hearts: 查成分
 
+- 会AI/机器学习 ~~（指会用SD-WebUI,vits等工具~~
 - Hacking! wakuwaku!
 - 写代码是热爱！
 - 喜欢看番 :hearts:

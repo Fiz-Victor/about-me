@@ -62,4 +62,5 @@ An average high school student (in school), living in China :cn: 16 y/o
 - [![Mail](https://img.shields.io/badge/Email-me@onlyra1n.top-168de2?&style=for-the-badge&logo=mail.ru)](mailto:me@onlyra1n.top)
 
 > 本页面可能更新不及时，本页面仅提供联系途径，赞助方式，技术栈和我的bio，详细请切换至简体中文
+
 > Content might not be up to date, this page only provides contact method, sponsor links, tech stack and my bio, for further information check out my zh-CN page.
