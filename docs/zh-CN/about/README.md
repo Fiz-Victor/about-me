@@ -8,7 +8,7 @@
 
 ## :chart_with_upwards_trend: 我的项目
 
-> 划掉的算属于暂停更新或无精力更新的
+> 划掉的算属于暂停/无精力更新的
 
 - 彗星端插件：[Zeitgeist Addon](https://github.com/Fiz-Victor/zeitgeist-addon)
 - MC纪端（划掉：[彗星端](https://github.com/MeteorDevelopment/meteor-client)
@@ -74,11 +74,11 @@
 ### **以下平台主要用英文进行活动**
 
 - [![Spotify](https://img.shields.io/badge/Spotify-@A--CHRN-1db954?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify.link/O6Wpu2n5sDb)
+- [![Youtube](https://img.shields.io/badge/Youtube-@onlyrain233-f00?&style=for-the-badge&logo=youtube)](https://www.youtube.com/@onlyrain233)
 - [![Discord](https://img.shields.io/badge/Discord-@onlyrain233-5662f6?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/590761803244634113)
 - ![Minecraft](https://img.shields.io/badge/MC-@lkwi-green?&style=for-the-badge)
 - [![Github](https://img.shields.io/badge/Github-@Fiz--Victor-white?&style=for-the-badge&logo=github)](https://github.com/Fiz-Victor)
 - [![Gitlab](https://img.shields.io/badge/Gitlab-@FizVic-white?&style=for-the-badge&logo=gitlab&logoColor=fc6d26)](https://discord.com/users/590761803244634113)
-- [![Youtube](https://img.shields.io/badge/Youtube-@onlyrain233-f00?&style=for-the-badge&logo=youtube)](https://www.youtube.com/@onlyrain233)
 - [![Mail](https://img.shields.io/badge/Email-me@onlyra1n.top-168de2?&style=for-the-badge&logo=mail.ru)](mailto:me@onlyra1n.top)
 
 ### **以下平台主要用中文进行活动**
@@ -102,13 +102,14 @@
 - [![知乎](https://img.shields.io/badge/知乎-@onlyrain233-white?&style=for-the-badge&logo=zhihu)](https://www.zhihu.com/people/onlyrain233)
 - [![酷安](https://img.shields.io/badge/酷安-Coolapk-white?&style=for-the-badge&labelColor=0eae67)](https://www.coolapk.com/u/27222844)
 中英文分割线
-- [![tumblr](https://img.shields.io/badge/Tumblr-@ame--chirin-001935?&style=for-the-badge&logo=tumblr)](https://www.tumblr.com/ame-chirin)
+Check out my music!
 - [![Newgrounds](https://img.shields.io/badge/Newgrounds-@onlyrain233-ff5653?&style=for-the-badge&label=🆖&labelColor=white)](https://onlyrain233.newgrounds.com/)
 - [![Soundcloud](https://img.shields.io/badge/Soundcloud-@ame__chirin-white?&style=for-the-badge&logo=soundcloud)](https://soundcloud.com/a_chrn)
+- [![Instagram](https://img.shields.io/badge/Instagram-@itzamechirin-191b22?&style=for-the-badge&logo=instagram)](https://www.instagram.com/itzamechirin)
+- [![tumblr](https://img.shields.io/badge/Tumblr-@ame--chirin-001935?&style=for-the-badge&logo=tumblr)](https://www.tumblr.com/ame-chirin)
 - [![Pinterest](https://img.shields.io/badge/Pinterest-@onlyrain233-e60023?&style=for-the-badge&logo=pinterest)](https://www.pinterest.com/onlyrain233/)
 - [![Reddit](https://img.shields.io/badge/Reddit-@u%2FAme__Chirin-white?&style=for-the-badge&logo=reddit)](https://www.reddit.com/u/Ame_Chirin)
 - [![Mastodon](https://img.shields.io/badge/Mastodon-@onlyrain233-191b22?&style=for-the-badge&logo=mastodon)](https://mastodon.social/@onlyrain233)
-- [![Instagram](https://img.shields.io/badge/Instagram-@itzamechirin-191b22?&style=for-the-badge&logo=instagram)](https://www.instagram.com/itzamechirin)
 - [![StackOverflow](https://img.shields.io/badge/StackOverflow-@onlyrain233-white?&style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/22309886/onlyrain233)
 - [![Figma](https://img.shields.io/badge/Figma-@onlyrain-black?&style=for-the-badge&logo=figma)](https://www.figma.com/@onlyrain)
 - [![Twitch](https://img.shields.io/badge/Twitch-@amechirin-white?&style=for-the-badge&logo=twitch)](https://www.twitch.tv/amechirin)
@@ -137,12 +138,13 @@
 - Hacking! wakuwaku!
 - 写代码是热爱！
 - 喜欢看番 :hearts:
-- 浓度不大的二次元
+- 术术人
+- 浓度不大二次元
 - 咕咕咕 :dove:
 - 游戏宅
 - 音游人（又菜又爱玩
 - 普普通通东方众
-- 做视频（作业nmd是真多，看情况吧
+- 剪视频
 
 ## :video_game: 我正在玩的游戏 （划掉：可能弃坑）
 
