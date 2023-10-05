@@ -79,7 +79,7 @@
 - ![Minecraft](https://img.shields.io/badge/MC-@lkwi-green?&style=for-the-badge)
 - [![Github](https://img.shields.io/badge/Github-@Fiz--Victor-white?&style=for-the-badge&logo=github)](https://github.com/Fiz-Victor)
 - [![Gitlab](https://img.shields.io/badge/Gitlab-@FizVic-white?&style=for-the-badge&logo=gitlab&logoColor=fc6d26)](https://discord.com/users/590761803244634113)
-- [![Mail](https://img.shields.io/badge/Email-me@onlyra1n.top-168de2?&style=for-the-badge&logo=mail.ru)](mailto:me@onlyra1n.top)
+- [![Mail](https://img.shields.io/badge/Email-contact@onlyra1n.top-168de2?&style=for-the-badge&logo=mail.ru)](mailto:contact@onlyra1n.top)
 
 ### **以下平台主要用中文进行活动**
 

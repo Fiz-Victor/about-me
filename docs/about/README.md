@@ -59,7 +59,7 @@ An average high school student (in school), living in China :cn: 16 y/o
 - [![Github](https://img.shields.io/badge/Github-@Fiz--Victor-white?&style=for-the-badge&logo=github)](https://github.com/Fiz-Victor)
 - [![Gitlab](https://img.shields.io/badge/Gitlab-@FizVic-white?&style=for-the-badge&logo=gitlab&logoColor=fc6d26)](https://discord.com/users/590761803244634113)
 - [![Youtube](https://img.shields.io/badge/Youtube-@onlyrain233-f00?&style=for-the-badge&logo=youtube)](https://www.youtube.com/@onlyrain233)
-- [![Mail](https://img.shields.io/badge/Email-me@onlyra1n.top-168de2?&style=for-the-badge&logo=mail.ru)](mailto:me@onlyra1n.top)
+- [![Mail](https://img.shields.io/badge/Email-contact@onlyra1n.top-168de2?&style=for-the-badge&logo=mail.ru)](mailto:contact@onlyra1n.top)
 
 > 本页面可能更新不及时，本页面仅提供联系途径，赞助方式，技术栈和我的bio，详细请切换至简体中文
 
