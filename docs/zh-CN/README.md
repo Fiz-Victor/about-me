@@ -2,7 +2,7 @@
 home: true
 heroText: 关于我
 heroAlt: OnlyRain233
-tagline: 也可以叫我： AM3LKWI, Fiz-Victor, AmeChirin, A_CHRN, 千凛丶、 菲兹QwQ，WY_凛
+tagline: 也可以叫我： AM3LKWI, Fiz-Victor, AmeChirin, A_CHRN, 菲兹QwQ，WY_凛
 
 actions:
   - text: 关于我
