@@ -136,15 +136,15 @@ Check out my music!
 
 ## :hearts: 查成分
 
-- 会AI/机器学习 ~~（指会用SD-WebUI,vits等工具~~
+- 会搞机器学习 ~~（指会用StableDiffusion,vits等工具的拼写，使用）~~
 - Hacking! wakuwaku!
 - 写代码是热爱！
 - 喜欢看番 :hearts:
 - 术术人
-- 浓度不大二次元
+- 浓度不大的二次元
 - 咕咕咕 :dove:
 - 游戏宅
-- 音游人（又菜又爱玩
+- 又菜又爱玩的音游人
 - 普普通通东方众
 - 剪视频
 
