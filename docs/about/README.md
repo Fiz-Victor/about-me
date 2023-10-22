@@ -4,18 +4,6 @@
 
 An average high school student :male_sign: (in school), living in China :cn: 16 y/o
 
-## :chart_with_upwards_trend: Projects I am maintaining
-
-> strikethrough = discontinued / have no time to update
-
-- Meteor addon: [Zeitgeist Addon](https://github.com/Fiz-Victor/zeitgeist-addon)
-- Minecraft Utility Client: [Meteor Client](https://github.com/MeteorDevelopment/meteor-client)
-
-## :desktop_computer: Devices (Gear) / OS in use
-
-![Windows 11](https://img.shields.io/badge/OS-Windows_11-white?style=flat-square&logo=windows&color=0078d4)&nbsp;
-![MIUI](https://img.shields.io/badge/Android-MIUI-ff9600?style=flat-square&logo=xiaomi&logoColor=ffffff)&nbsp;
-
 ## :hammer_and_wrench: Tools I mess with
 
 ![Visual Studio](https://img.shields.io/badge/Editor-Visual_Studio-white?style=flat-square&logo=visualstudio&color=4abf8a)&nbsp;

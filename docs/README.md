@@ -1,8 +1,8 @@
 ---
 home: true
 heroText: About me
-heroAlt: OnlyRain233
-tagline: "AKA: AM3LKWI, LKWI, Fiz-Victor, AmeChirin, A_CHRN"
+heroAlt: LLKawi
+tagline: "AKA: LLKawi, Fiz-Victor, AmeChirin, A_CHRN"
 
 actions:
   - text: About me

@@ -1,8 +1,8 @@
 ---
 home: true
 heroText: 关于我
-heroAlt: OnlyRain233
-tagline: 也可以叫我： AM3LKWI, Fiz-Victor, AmeChirin, A_CHRN, 菲兹QwQ，WY_凛
+heroAlt: 唯雨LLKawi
+tagline: 也可以叫我： LLKawi, Fiz-Victor, AmeChirin, A_CHRN, 菲兹QwQ，WY_凛，唯雨千凛
 
 actions:
   - text: 关于我
@@ -19,7 +19,7 @@ actions:
 
 <div style="text-align: center">
 <img src="https://cravatar.cn/avatar/949b4b017cd9c5b03ec65cfc715c17ec?s=250" alt="Avatar" style="border-radius: 50%">
-<h3>你好，陌生人！这里是唯雨千凛 OnlyRain233！( •̀ ω •́ )✧</h3>
+<h3>你好，陌生人！这里是唯雨 LLKawi！( •̀ ω •́ )✧</h3>
 </div>
 
 ---
