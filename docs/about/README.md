@@ -2,7 +2,7 @@
 
 ## :telescope: About me
 
-An average high school student (in school), living in China :cn: 16 y/o
+An average high school student :male_sign: (in school), living in China :cn: 16 y/o
 
 ## :chart_with_upwards_trend: Projects I am maintaining
 
@@ -10,7 +10,6 @@ An average high school student (in school), living in China :cn: 16 y/o
 
 - Meteor addon: [Zeitgeist Addon](https://github.com/Fiz-Victor/zeitgeist-addon)
 - Minecraft Utility Client: [Meteor Client](https://github.com/MeteorDevelopment/meteor-client)
-- ~~The Fabric Minecraft RAT: [Witch](https://github.com/MeteorDevelopment/witch)~~
 
 ## :desktop_computer: Devices (Gear) / OS in use
 

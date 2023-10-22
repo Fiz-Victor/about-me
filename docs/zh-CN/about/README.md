@@ -2,7 +2,7 @@
 
 ## :telescope: 关于我
 
-16岁，是平平无奇高中生 (在读) 现居中国 :cn: 
+16岁:male_sign:，平平无奇高中生，在读 现居中国 :cn: 
 
 平日里没啥事就去~~写bug（划掉~~
 
@@ -12,7 +12,6 @@
 
 - 彗星端插件：[Zeitgeist Addon](https://github.com/Fiz-Victor/zeitgeist-addon)
 - MC纪端（划掉：[彗星端](https://github.com/MeteorDevelopment/meteor-client)
-- ~~Fabric端MC远控模组：[Witch](https://github.com/MeteorDevelopment/witch)~~
 
 ## :desktop_computer: 我使用的操作系统与设备
 
