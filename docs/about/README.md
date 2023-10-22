@@ -44,7 +44,7 @@ An average high school student :male_sign: (in school), living in China :cn: 16 
 - [![Discord](https://img.shields.io/badge/Discord-@onlyrain233-5662f6?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/590761803244634113)
 - ![Minecraft](https://img.shields.io/badge/MC-@lkwi-green?&style=for-the-badge)
 - [![Github](https://img.shields.io/badge/Github-@LLKawi-white?&style=for-the-badge&logo=github)](https://github.com/LLKawi)
-- [![Gitlab](https://img.shields.io/badge/Gitlab-@FizVic-white?&style=for-the-badge&logo=gitlab&logoColor=fc6d26)](https://discord.com/users/590761803244634113)
+- [![Gitlab](https://img.shields.io/badge/Gitlab-@LLKawi-white?&style=for-the-badge&logo=gitlab&logoColor=fc6d26)](https://discord.com/users/590761803244634113)
 - [![Youtube](https://img.shields.io/badge/Youtube-@onlyrain233-f00?&style=for-the-badge&logo=youtube)](https://www.youtube.com/@onlyrain233)
 - [![Mail](https://img.shields.io/badge/Email-contact@onlyra1n.top-168de2?&style=for-the-badge&logo=mail.ru)](mailto:contact@onlyra1n.top)
 
