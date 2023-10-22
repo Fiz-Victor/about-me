@@ -2,11 +2,11 @@
 
 ## :telescope: 关于我
 
-16岁:male_sign:，平平无奇高中生，在读 现居中国 :cn: 
+16岁:male_sign: | 平平无奇高中生 现在在读 | 现居中国 | 一只fw :cn: 
 
-平日里没啥事就去~~写bug（划掉~~，什么圈子都沾过一点
+平日里没啥事就去~~写bug（划掉~~ 什么圈子都沾过一点
 
-## :chart_with_upwards_trend: 我的项目
+## :chart_with_upwards_trend: 我参与的开源项目
 
 > 划掉的算属于暂停/无精力更新的
 
