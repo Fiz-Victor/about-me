@@ -10,7 +10,7 @@
 
 > 划掉的算属于暂停/无精力更新的
 
-- 彗星端插件：[Zeitgeist Addon](https://github.com/Fiz-Victor/zeitgeist-addon)
+- 彗星端插件：[Zeitgeist Addon](https://github.com/LLKawi/zeitgeist-addon)
 - MC纪端（划掉：[彗星端](https://github.com/MeteorDevelopment/meteor-client)
 
 ## :desktop_computer: 我使用的操作系统与设备
@@ -76,7 +76,7 @@
 - [![Youtube](https://img.shields.io/badge/Youtube-@onlyrain233-f00?&style=for-the-badge&logo=youtube)](https://www.youtube.com/@onlyrain233)
 - [![Discord](https://img.shields.io/badge/Discord-@onlyrain233-5662f6?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/590761803244634113)
 - ![Minecraft](https://img.shields.io/badge/MC-@lkwi-green?&style=for-the-badge)
-- [![Github](https://img.shields.io/badge/Github-@Fiz--Victor-white?&style=for-the-badge&logo=github)](https://github.com/Fiz-Victor)
+- [![Github](https://img.shields.io/badge/Github-@LLKawi-white?&style=for-the-badge&logo=github)](https://github.com/LLKawi)
 - [![Gitlab](https://img.shields.io/badge/Gitlab-@FizVic-white?&style=for-the-badge&logo=gitlab&logoColor=fc6d26)](https://discord.com/users/590761803244634113)
 - [![Mail](https://img.shields.io/badge/Email-contact@onlyra1n.top-168de2?&style=for-the-badge&logo=mail.ru)](mailto:contact@onlyra1n.top)
 
