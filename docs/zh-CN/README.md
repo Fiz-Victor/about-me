@@ -2,7 +2,7 @@
 home: true
 heroText: 关于我
 heroAlt: 唯雨LLKawi
-tagline: 也可以叫我： LLKawi, Fiz-Victor, AmeChirin, A_CHRN, 菲兹QwQ，WY_凛，唯雨千凛
+tagline: 也可以叫我： LLKawi, Fiz-Victor, AmeChirin, A_CHRN, 唯雨233，WY_凛，唯雨千凛
 
 actions:
   - text: 关于我
