@@ -40,7 +40,7 @@ An average high school student :male_sign: (in school), living in China :cn: 16 
 
 ## :iphone: Reach me (/≧▽≦)/
 
-- [![Spotify](https://img.shields.io/badge/Spotify-@A--CHRN-1db954?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify.link/O6Wpu2n5sDb)
+- [![Linktree](https://img.shields.io/badge/Linktree_%28Check_out_my_music!%29-@LLKawi-1db954?style=for-the-badge&logo=linktree&logoColor=white)]()
 - [![Discord](https://img.shields.io/badge/Discord-@onlyrain233-5662f6?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/590761803244634113)
 - ![Minecraft](https://img.shields.io/badge/MC-@lkwi-green?&style=for-the-badge)
 - [![Github](https://img.shields.io/badge/Github-@LLKawi-white?&style=for-the-badge&logo=github)](https://github.com/LLKawi)
