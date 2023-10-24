@@ -72,7 +72,7 @@
 
 ### **以下平台主要用英文进行活动**
 
-- [![Spotify](https://img.shields.io/badge/Spotify-@A--CHRN-1db954?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify.link/O6Wpu2n5sDb)
+- [![Linktree](https://img.shields.io/badge/Linktree_%28Check_out_my_music!%29-@LLKawi-1db954?style=for-the-badge&logo=linktree&logoColor=white)]()
 - [![Youtube](https://img.shields.io/badge/Youtube-@onlyrain233-f00?&style=for-the-badge&logo=youtube)](https://www.youtube.com/@onlyrain233)
 - [![Discord](https://img.shields.io/badge/Discord-@onlyrain233-5662f6?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/590761803244634113)
 - ![Minecraft](https://img.shields.io/badge/MC-@lkwi-green?&style=for-the-badge)
@@ -102,10 +102,7 @@
 - [![酷安](https://img.shields.io/badge/酷安-Coolapk-white?&style=for-the-badge&labelColor=0eae67)](https://www.coolapk.com/u/27222844)
 - [![KOOK](https://img.shields.io/badge/KOOK-@Unregistered-white?&style=for-the-badge&labelColor=0eae67)](https://www.coolapk.com/u/27222844)
 中英文分割线
-Check out my music!
-- [![heartisat](https://img.shields.io/badge/Heartis.at-@wychirin-white?&style=for-the-badge&logo=hearthisdotat)](https://hearthis.at/wychirin/)
-- [![Newgrounds](https://img.shields.io/badge/Newgrounds-@onlyrain233-ff5653?&style=for-the-badge&label=🆖Newgrounds&labelColor=white)](https://onlyrain233.newgrounds.com/)
-- [![Soundcloud](https://img.shields.io/badge/Soundcloud-@ame__chirin-white?&style=for-the-badge&logo=soundcloud)](https://soundcloud.com/a_chrn)
+
 - [![Instagram](https://img.shields.io/badge/Instagram(Banned)-@itzamechirin-191b22?&style=for-the-badge&logo=instagram)](https://www.instagram.com/itzamechirin)
 - [![tumblr](https://img.shields.io/badge/Tumblr-@ame--chirin-001935?&style=for-the-badge&logo=tumblr)](https://www.tumblr.com/ame-chirin)
 - [![Pinterest](https://img.shields.io/badge/Pinterest-@onlyrain233-e60023?&style=for-the-badge&logo=pinterest)](https://www.pinterest.com/onlyrain233/)
