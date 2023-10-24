@@ -84,7 +84,7 @@
 
 - [![Q群](https://img.shields.io/badge/闲聊吹水群-@904616368-0093f5?&style=for-the-badge&logo=tencentqq)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=bsVstl7UyIWYLk22GiaApKupGQB5haF0&authKey=%2BPOWzI6ZTA42YuQwoUeiIp4yKAyGEQR5Go6LUu6KbBHMwmcGsDf%2F78bH6aFC4TBy&noverify=0&group_code=904616368)
 - ![QQ](https://img.shields.io/badge/QQ-@Meteor☄-3c76c5?&style=for-the-badge&logo=tencentqq)
-- [![电报](https://img.shields.io/badge/电报-@A-CHRN-white?&style=for-the-badge&logo=telegram)](https://t.me/onlyrain233)
+- [![电报](https://img.shields.io/badge/电报-@A--CHRN-white?&style=for-the-badge&logo=telegram)](https://t.me/onlyrain233)
 - [![电报群](https://img.shields.io/badge/电报群组-white?&style=for-the-badge&logo=telegram)](https://t.me/+1m9phVMNNBk2NmI1/)
 - [![Gitee](https://img.shields.io/badge/Gitee-@LLKawi-c71d23?&style=for-the-badge&logo=gitee)](https://gitee.com/onlyrain233)
 - [![B站](https://img.shields.io/badge/Bilibili-@唯雨LLKawi-white?&style=for-the-badge&logo=bilibili)](https://space.bilibili.com/174927495)
