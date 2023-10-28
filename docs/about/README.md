@@ -4,25 +4,6 @@
 
 An average high school student :male_sign: (in school), living in China :cn: 16 y/o
 
-## :hammer_and_wrench: Tools I mess with
-
-![Visual Studio](https://img.shields.io/badge/Editor-Visual_Studio-white?style=flat-square&logo=visualstudio&color=4abf8a)&nbsp;
-![VSCode](https://img.shields.io/badge/Editor-Visual_Studio_Code-white?style=flat-square&logo=visualstudiocode&color=4abf8a)&nbsp;
-![IntelliJ](https://img.shields.io/badge/Editor-IntelliJ-white?style=flat-square&logo=IntelliJ+IDEA&color=4abf8a)&nbsp;
-![Git](https://img.shields.io/badge/VCS-Git-white?style=flat-square&logo=Git&color=4abf8a)&nbsp;
-
-## :placard: Services I use
-
-![Services](https://skillicons.dev/icons?i=github,vercel,cloudflare,gradle)
-
-## :keyboard: My Tech Stack
-
-![Languages](https://skillicons.dev/icons?i=java,js,py,cs,markdown)
-
-## :brain: Skills I'm learning / want to learn
-
-![BlahBlahBlah](https://skillicons.dev/icons?i=ae,aws,gcp,nginx,mongodb,php,blender,c,cpp,cmake,figma,godot,ps,pr,ai,unity)
-
 ## :timer_clock: Timezone & Available hours
 
 - :earth_americas: GMT+8
