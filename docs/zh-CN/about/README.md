@@ -6,12 +6,7 @@
 
 立志成为会写曲/会做动画/写鬼畜/会ps/会开发/再加上一些杂七杂八的鸽子（其实就是懒
 
-## :chart_with_upwards_trend: 我参与的开源项目
-
-> 划掉的算属于暂停/无精力更新的
-
-- 彗星端插件：[Zeitgeist Addon](https://github.com/LLKawi/zeitgeist-addon)
-- MC纪端（划掉：[彗星端](https://github.com/MeteorDevelopment/meteor-client)
+趋势了的程序猿/开发人员（暂时停止写项目）
 
 ## :desktop_computer: 我使用的操作系统与设备
 
