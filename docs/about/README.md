@@ -8,7 +8,7 @@ An average high school student :male_sign: (in school), living in China :cn: 16 
 
 - :earth_americas: GMT+8
 - :zap: Available when:
-  - Mon - Fri: After 21:00
+  - Mon - Fri: Might be unavailable
   - Sat - Sun: Reply in 24 hours (Most cases)
 - :checkered_flag: Language
   - ![zh_CN](https://img.shields.io/badge/Chinese_(Simplified)-4abf8a?style=flat-square&label=🏠简体中文)&nbsp;
