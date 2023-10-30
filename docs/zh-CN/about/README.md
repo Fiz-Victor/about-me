@@ -4,16 +4,18 @@
 
 16岁:male_sign: | 平平无奇高中生 现在在读 | 现居中国 | 一只fw :cn: 
 
-立志成为会写曲/会做动画/写鬼畜/会ps/会开发/再加上一些杂七杂八的鸽子（其实就是懒
+立志成为会写曲/会做动画/鬼畜/ps/会开发/再加上一些杂七杂八的鸽子
 
-趋势了的程序猿/开发人员（暂时停止写项目）
+
 
 ## :desktop_computer: 我使用的操作系统与设备
 
 ![Windows 11](https://img.shields.io/badge/OS-Windows_11-white?style=flat-square&logo=windows&color=0078d4)&nbsp;
 ![MIUI](https://img.shields.io/badge/Android-MIUI-ff9600?style=flat-square&logo=xiaomi&logoColor=ffffff)&nbsp;
 
-## :hammer_and_wrench: 我折腾的工具
+## :hammer_and_wrench: 开发工具与技术
+
+### 折腾的工具
 
 ![Visual Studio](https://img.shields.io/badge/Editor-Visual_Studio-white?style=flat-square&logo=visualstudio&color=4abf8a)
 &nbsp;
@@ -23,15 +25,15 @@
 &nbsp;
 ![Git](https://img.shields.io/badge/VCS-Git-white?style=flat-square&logo=Git&color=4abf8a)&nbsp;
 
-## :placard: 我使用的服务
+### 使用的服务
 
 ![Services](https://skillicons.dev/icons?i=github,vercel,cloudflare,gradle)
 
-## :keyboard: 我的技术栈
+### 技术栈
 
 ![Languages](https://skillicons.dev/icons?i=java,js,py,cs,markdown)
 
-## :brain: 想学/正在学习的技能
+### :brain: 想学/正在学习的技能
 
 ![BlahBlahBlah](https://skillicons.dev/icons?i=ae,aws,gcp,nginx,mongodb,php,blender,c,cpp,cmake,figma,godot,ps,pr,ai,unity)
 
@@ -51,7 +53,7 @@
 
 编程菜鸡 o.O（雾） (。・ω・。)
 
-## :coffee: 我很可爱，请给我钱
+## :coffee: 我很可爱，请给我钱！（震声）
 
 - :construction: 板块正在建设中...
 
@@ -69,7 +71,7 @@
 
 - [![Linktree](https://img.shields.io/badge/Linktree_%28Check_out_my_music!%29-@LLKawi-1db954?style=for-the-badge&logo=linktree&logoColor=white)]()
 - [![Youtube](https://img.shields.io/badge/Youtube-@onlyrain233-f00?&style=for-the-badge&logo=youtube)](https://www.youtube.com/@llkawi)
-- [![Discord](https://img.shields.io/badge/Discord-@onlyrain233-5662f6?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/590761803244634113)
+- [![Discord](https://img.shields.io/badge/Discord-@llkawi-5662f6?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/590761803244634113)
 - ![Minecraft](https://img.shields.io/badge/MC-@lkwi-green?&style=for-the-badge)
 - [![Github](https://img.shields.io/badge/Github-@LLKawi-white?&style=for-the-badge&logo=github)](https://github.com/LLKawi)
 - [![Gitlab](https://img.shields.io/badge/Gitlab-@LLKawi-white?&style=for-the-badge&logo=gitlab&logoColor=fc6d26)](https://discord.com/users/590761803244634113)
@@ -90,7 +92,7 @@
 
 <!--
 未使用
-- [![MissKey](https://img.shields.io/badge/MissKey_on_喵窝-@onlyrain233-white?&style=for-the-badge&logo=misskey&logoColor=62b6e7)](https://nya.one/@onlyrain233)
+- [![MissKey](https://img.shields.io/badge/misskey.io-@???-white?&style=for-the-badge&logo=misskey&logoColor=62b6e7)](https://misskey.io/@onlyrain233)
 - [![wx](https://img.shields.io/badge/wx-white?&style=for-the-badge&logo=wechat)](!!!!!!!!!TBA!!!!!!)
 - [![知乎](https://img.shields.io/badge/知乎-@onlyrain233-white?&style=for-the-badge&logo=zhihu)](https://www.zhihu.com/people/onlyrain233)
 - [![酷安](https://img.shields.io/badge/酷安-Coolapk-white?&style=for-the-badge&labelColor=0eae67)](https://www.coolapk.com/u/27222844)
@@ -115,25 +117,24 @@
 
 ## :mag: 有生之年想做的
 
-- ~~女装~~（没钱
-- 日本语本当上手
-- 顺着网线来找你，很快就到你家门口:rage:
+- ~~女装~~（说到底还是没钱
 
 ## :books: 目前正在学习
 
 - ~~摆烂~~
 - 编曲
+- 
 
 ## :hearts: 查成分
 
 - 会搞机器学习 ~~（指会用StableDiffusion,vits等工具的拼写，使用）~~
-- Hacking! wakuwaku!
+- 搞Hacking~
 - 写代码是热爱！
 - 喜欢看番 :hearts:
 - 术术人
 - 浓度不大的二次元
 - 咕咕咕 :dove:
-- 游戏宅
+- 臭打游戏的
 - 又菜又爱玩的音游人
 - 普普通通东方众
 - 剪视频
