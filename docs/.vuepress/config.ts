@@ -6,12 +6,12 @@ export default defineUserConfig({
     locales: {
         '/': {
             lang: 'English',
-            title: "OnlyRain233",
+            title: "LLKawi",
             description: "About me",
         },
         '/zh-CN/': {
             lang: '中文',
-            title: "OnlyRain233",
+            title: "卡威LLKawi",
             description: "关于我",
         },
     },
@@ -21,7 +21,8 @@ export default defineUserConfig({
     theme: defaultTheme(
         {
             navbar: [
-                { text: 'About', link: '/about/' }
+                { text: 'About', link: '/about/' },
+                { text: 'Sponsor', link: '/sponsor/' }
             ],
         }
     ),

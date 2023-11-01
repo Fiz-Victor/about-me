@@ -2,7 +2,7 @@
 home: true
 heroText: About me
 heroAlt: LLKawi
-tagline: "AKA: LLKawi, AmeChirin, A_CHRN, OnlyRain233"
+tagline: "AKA: LLKawi, AmeChirin, OnlyRain233"
 
 actions:
   - text: About me
@@ -11,6 +11,9 @@ actions:
   - text: My Blogs
     type: secondary
     link: https://me.onlyra1n.top
+  - text: Sponsor me!
+    type: secondary
+    link: ./sponsor/
 ---
 
 <p style="text-align: center">
