@@ -2,7 +2,7 @@
 
 ## 支付宝
 
-![Alipay](https://qr.alipay.com/a6x10429ivzely9vxmzhwae)]
+![Alipay](https://qr.alipay.com/a6x10429ivzely9vxmzhwae)
 
 ## V我50！
 
