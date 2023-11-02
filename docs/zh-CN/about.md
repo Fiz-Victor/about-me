@@ -53,7 +53,7 @@
 ### **以下平台主要用英文进行活动**
 
 - [![Linktree](https://img.shields.io/badge/Linktree_%28Check_out_my_music!%29-@LLKawi-1db954?style=for-the-badge&logo=linktree&logoColor=white)]()
-- [![Youtube](https://img.shields.io/badge/Youtube-@onlyrain233-f00?&style=for-the-badge&logo=youtube)](https://www.youtube.com/@llkawi)
+- [![Youtube](https://img.shields.io/badge/Youtube-@LLKawi_Official-f00?&style=for-the-badge&logo=youtube)](https://www.youtube.com/@llkawi)
 - [![Discord](https://img.shields.io/badge/Discord-@llkawi-5662f6?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/590761803244634113)
 - ![Minecraft](https://img.shields.io/badge/MC-@lkwi-green?&style=for-the-badge)
 - [![Github](https://img.shields.io/badge/Github-@LLKawi-white?&style=for-the-badge&logo=github)](https://github.com/LLKawi)
@@ -66,7 +66,7 @@
 - ![QQ](https://img.shields.io/badge/QQ-@_LLKawi_-3c76c5?&style=for-the-badge&logo=tencentqq)
 - [![电报](https://img.shields.io/badge/电报-@A--CHRN-white?&style=for-the-badge&logo=telegram)](https://t.me/onlyrain233)
 - [![电报群](https://img.shields.io/badge/电报群组-white?&style=for-the-badge&logo=telegram)](https://t.me/+1m9phVMNNBk2NmI1/)
-- [![Gitee](https://img.shields.io/badge/Gitee-@LLKawi-c71d23?&style=for-the-badge&logo=gitee)](https://gitee.com/onlyrain233)
+- [![Gitee](https://img.shields.io/badge/Gitee-@LLKawi-c71d23?&style=for-the-badge&logo=gitee)](https://gitee.com/LLKawi)
 - [![B站](https://img.shields.io/badge/Bilibili-@卡威LLKawi-white?&style=for-the-badge&logo=bilibili)](https://space.bilibili.com/174927495)
 - [![黑叉](https://img.shields.io/badge/X-@llkawi_-black?&style=for-the-badge&logo=x)](https://twitter.com/llkawi_)
 - [![死题目](https://img.shields.io/badge/Steam-@victor__www-136da0?&style=for-the-badge&logo=steam)](https://steamcommunity.com/id/victor_www)
