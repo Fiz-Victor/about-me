@@ -8,34 +8,10 @@
 
 > When? S∞n!
 
-## :desktop_computer: 我使用的操作系统与设备
+## :desktop_computer: 使用的操作系统与设备
 
 ![Windows 11](https://img.shields.io/badge/OS-Windows_11-white?style=flat-square&logo=windows&color=0078d4)&nbsp;
 ![MIUI](https://img.shields.io/badge/Android-MIUI-ff9600?style=flat-square&logo=xiaomi&logoColor=ffffff)&nbsp;
-
-## :hammer_and_wrench: 开发工具与技术
-
-### 折腾的工具
-
-![Visual Studio](https://img.shields.io/badge/Editor-Visual_Studio-white?style=flat-square&logo=visualstudio&color=4abf8a)
-&nbsp;
-![VSCode](https://img.shields.io/badge/Editor-Visual_Studio_Code-white?style=flat-square&logo=visualstudiocode&color=4abf8a)
-&nbsp;
-![IntelliJ](https://img.shields.io/badge/Editor-IntelliJ-white?style=flat-square&logo=IntelliJ+IDEA&color=4abf8a)
-&nbsp;
-![Git](https://img.shields.io/badge/VCS-Git-white?style=flat-square&logo=Git&color=4abf8a)&nbsp;
-
-### 使用的服务
-
-![Services](https://skillicons.dev/icons?i=github,vercel,cloudflare,gradle)
-
-### 技术栈
-
-![Languages](https://skillicons.dev/icons?i=java,js,py,cs,markdown)
-
-### :brain: 想学/正在学习的技能
-
-![BlahBlahBlah](https://skillicons.dev/icons?i=ae,aws,gcp,nginx,mongodb,php,blender,c,cpp,cmake,figma,godot,ps,pr,ai,unity)
 
 ## :timer_clock: 时区、联系时间和语言
 
@@ -114,7 +90,7 @@
 - 搞Hacking~
 - 写代码是热爱！
 - 喜欢看番 :hearts:
-- 术术
+- 术术人
 - 咕咕咕 :dove:
 - 是个打游戏的
 - 又菜又爱玩的音游人
