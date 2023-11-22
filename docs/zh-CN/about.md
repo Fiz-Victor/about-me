@@ -28,7 +28,7 @@
 
 ### **以下平台主要用英文进行活动**
 
-- [![Linktree](https://img.shields.io/badge/Linktree_%28Check_out_my_music!%29-@LLKawi-1db954?style=for-the-badge&logo=linktree&logoColor=white)]()
+- [![Linktree](https://img.shields.io/badge/Linktree_%28Check_out_my_music!%29-@LLKawi-1db954?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/llkawi)
 - [![Youtube](https://img.shields.io/badge/Youtube-@LLKawi_Official-f00?&style=for-the-badge&logo=youtube)](https://www.youtube.com/@llkawi)
 - [![Discord](https://img.shields.io/badge/Discord-@llkawi-5662f6?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/590761803244634113)
 - ![Minecraft](https://img.shields.io/badge/MC-@lkwi-green?&style=for-the-badge)
