@@ -1,30 +1,30 @@
 # 你好！
 
-## :telescope: 关于我
+## 🔭 关于我
 
-16岁:male_sign: | 平平无奇高中生 现在在读 | 现居中国 | 一只fw :cn: 
+16岁 ♂️ | 平平无奇高中生（在读） | 现居中国 | 一只fw 🇨🇳 
 
-立志成为一个什么一些杂七杂都会的鸽子
+立志成为一个什么一些杂七杂都会的鸽子，那么废话不多说，开摆！💤
 
 > When? S∞n!
 
-## :desktop_computer: 使用的操作系统与设备
+## 🖥️ 使用的操作系统与设备
 
 ![Windows 11](https://img.shields.io/badge/OS-Windows_11-white?style=flat-square&logo=windows&color=0078d4)&nbsp;
 ![MIUI](https://img.shields.io/badge/Android-MIUI-ff9600?style=flat-square&logo=xiaomi&logoColor=ffffff)&nbsp;
 
-## :timer_clock: 时区、联系时间和语言
+## ⏲️ 时区、联系时间和语言
 
-- :earth_americas: 时区: GMT+8
-- :zap: 联系时间:
+- 🌎 时区: GMT+8
+- ⚡ 联系时间:
     - 周一到周五: 随缘
     - 周六周日: 大多数情况下24小时内
-- :checkered_flag: 语言
+- 🏁 语言
   - ![zh_CN](https://img.shields.io/badge/Chinese_(Simplified)-4abf8a?style=flat-square&label=🏠简体中文)&nbsp;
   - ![en_US](https://img.shields.io/badge/English_(US)-4abf8a?logo=&style=flat-square&label=English)
   - ~~![ja_JP](https://img.shields.io/badge/Japanese-4abf8a?logo=&style=flat-square&label=日本語)~~
 
-## :iphone: 取得联系 (/≧▽≦)/
+## 📱 取得联系 (/≧▽≦)/
 
 ### **以下平台主要用英文进行活动**
 
@@ -47,7 +47,7 @@
 - [![黑叉](https://img.shields.io/badge/X-@llkawi_-black?&style=for-the-badge&logo=x)](https://twitter.com/llkawi_)
 - [![死题目](https://img.shields.io/badge/Steam-@victor__www-136da0?&style=for-the-badge&logo=steam)](https://steamcommunity.com/id/victor_www)
 - [![蓝P](https://img.shields.io/badge/P站-不咋上线-white?&style=for-the-badge&logo=pixiv&labelColor=333)](https://www.pixiv.net/users/64711023)
-- [![wyy](https://img.shields.io/badge/网易云-@卡威LLKawi-dd011c?&style=for-the-badge)](https://music.163.com/#/user/home?id=8561047586)
+- [![wyy](https://img.shields.io/badge/网易云-@LLKawi_Official-dd011c?&style=for-the-badge)](https://music.163.com/#/user/home?id=8561047586)
 
 <!--
 未使用
@@ -68,13 +68,13 @@
 - [![Twitch](https://img.shields.io/badge/Twitch-@amechirin-white?&style=for-the-badge&logo=twitch)](https://www.twitch.tv/amechirin)
 -->
 
-## :thought_balloon: 我正在做什么
+## 💭 我正在做什么
 
-- :comet: 折腾MC模组
-- :notes: 创作可爱的音乐
-- :rainbow: 正在做一些有趣又实用的项目
+- 折腾MC模组
+- 创作可爱的音乐
+- 正在创作一些很新的的东西
 
-## :books: 目前正在学习
+## 📚 目前正在学习
 
 - ~~摆烂~~
 - 编曲
@@ -83,13 +83,13 @@
 - 平面设计【推迟】
 - 视频后期【推迟】
 
-## :hearts: 查成分
+## ♥️ 查成分
 
 - 编程菜鸡 O.o（雾） (。・ω・。)
 - AI人声/AI作画
 - 搞Hacking~
-- 写代码是热爱！
-- 喜欢看番 :hearts:
+- 写代码和音乐是热爱！
+- 喜欢看番
 - 术术人
 - 咕咕咕 :dove:
 - 是个打游戏的
@@ -97,7 +97,7 @@
 - 普普通通东方众
 - 剪视频
 
-## :video_game: 我正在玩的游戏 （划掉：可能弃坑）
+## 🎮 我正在玩的游戏 （划掉：可能弃坑）
 
 > **你说的对，但我不玩原神**
 
