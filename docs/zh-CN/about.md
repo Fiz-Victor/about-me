@@ -8,7 +8,7 @@
 
 > When? S∞n! 咕咕咕🕊️
 
-## 🖥️ 使用的操作系统与设备
+## 🖥️ 操作系统与设备
 
 ![Windows 11](https://img.shields.io/badge/OS-Windows_11-white?style=flat-square&logo=windows&color=0078d4)&nbsp;
 ![MIUI](https://img.shields.io/badge/Android-MIUI-ff9600?style=flat-square&logo=xiaomi&logoColor=ffffff)&nbsp;
@@ -77,9 +77,9 @@
 
 ## ♥️ 查成分
 
-- 编程菜鸡 O.o（雾） (。・ω・。)
+- 编程菜鸡 正在努力学习（雾） (。・ω・。)
 - AI人声/AI作画
-- 搞Hacking~
+- Hacking~
 - 写代码和音乐是热爱！
 - 喜欢看番
 - 术术人
