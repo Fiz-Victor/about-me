@@ -16,9 +16,7 @@
 ## ⏲️ 时区、联系时间和语言
 
 - 🌎 时区: GMT+8
-- ⚡ 联系时间:
-    - 周一到周五: 随缘
-    - 周六周日: 大多数情况下24小时内
+- ⚡ 联系时间: 24小时内回复
 - 🏁 语言
   - ![zh_CN](https://img.shields.io/badge/Chinese_(Simplified)-4abf8a?style=flat-square&label=🏠简体中文)&nbsp;
   - ![en_US](https://img.shields.io/badge/English_(US)-4abf8a?logo=&style=flat-square&label=English)
