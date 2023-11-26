@@ -39,9 +39,9 @@
 - [![B站](https://img.shields.io/badge/Bilibili-@卡威LLKawi-white?&style=for-the-badge&logo=bilibili)](https://space.bilibili.com/174927495)
 - [![黑叉](https://img.shields.io/badge/X-@llkawi_-black?&style=for-the-badge&logo=x)](https://twitter.com/llkawi_)
 - [![蓝P](https://img.shields.io/badge/P站-不咋上线-white?&style=for-the-badge&logo=pixiv&labelColor=333)](https://www.pixiv.net/users/64711023)
-- [![wyy](https://img.shields.io/badge/网易云-@LLKawi_Official-dd011c?&style=for-the-badge)](https://music.163.com/#/user/home?id=8561047586)
 
 <!--
+快了快了！！！不准偷看！
 未使用
 - [![MissKey](https://img.shields.io/badge/misskey.io-@llkawi-white?&style=for-the-badge&logo=misskey&logoColor=62b6e7)](https://misskey.io/@llkawi)
 - [![wx](https://img.shields.io/badge/wx-white?&style=for-the-badge&logo=wechat)](!!!!!!!!!TBA!!!!!!)
