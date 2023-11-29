@@ -1,10 +1,10 @@
-# Ciallo~ (∠・ω< )⌒★!！
+# Ciallo～(∠・ω< )⌒★！
 
 ## 🔭 关于我
 
 16岁 ♂️ | 平平无奇高中生（在读） | 现居中国 | 一只fw 🇨🇳 
 
-正在学一些杂七杂八的东西，那么废话不多说，开摆！💤
+废话不多说，开摆！💤
 
 > When? S∞n! 咕咕咕🕊️
 
@@ -22,7 +22,7 @@
   - ![en_US](https://img.shields.io/badge/English_(US)-4abf8a?logo=&style=flat-square&label=English)
   - ~~![ja_JP](https://img.shields.io/badge/Japanese-4abf8a?logo=&style=flat-square&label=日本語)~~
 
-## 📱 找到我 (/≧▽≦)/
+## 📱 如何找到我 (/≧▽≦)/
 
 - [![Linktree](https://img.shields.io/badge/Linktree_%28Check_out_my_music!%29-@LLKawi-1db954?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/llkawi)
 - [![Youtube](https://img.shields.io/badge/Youtube-@LLKawi_Official-f00?&style=for-the-badge&logo=youtube)](https://www.youtube.com/@llkawi)
@@ -39,6 +39,8 @@
 - [![B站](https://img.shields.io/badge/Bilibili-@卡威LLKawi-white?&style=for-the-badge&logo=bilibili)](https://space.bilibili.com/174927495)
 - [![黑叉](https://img.shields.io/badge/X-@llkawi_-black?&style=for-the-badge&logo=x)](https://twitter.com/llkawi_)
 - [![蓝P](https://img.shields.io/badge/P站-不咋上线-white?&style=for-the-badge&logo=pixiv&labelColor=333)](https://www.pixiv.net/users/64711023)
+- 
+~~欢饮大家迫害~~
 
 <!--
 快了快了！！！不准偷看！
