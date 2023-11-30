@@ -12,7 +12,7 @@ export default defineUserConfig({
         '/zh-CN/': {
             lang: '中文',
             title: "卡威LLKawi",
-            description: "关于我",
+            description: "Ciallo～(∠・ω< )⌒★！",
         },
     },
     head: [
