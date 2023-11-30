@@ -4,10 +4,7 @@
 
 An average high school student ♂️ (in school), living in China 🇨🇳 16 y/o
 
-## 🌎 Timezone & Available hours
-
 - 🌎 GMT+8
-- ⚡ Reply in 24 hours
 - 🏁 Language
   - ![zh_CN](https://img.shields.io/badge/Chinese_(Simplified)-4abf8a?style=flat-square&label=🏠简体中文)&nbsp;
   - ![en_US](https://img.shields.io/badge/English_(US)-4abf8a?logo=&style=flat-square&label=English)

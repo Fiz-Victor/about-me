@@ -8,19 +8,16 @@
 
 > When? S∞n! 咕咕咕🕊️
 
-## 🖥️ 操作系统与设备
-
-![Windows 11](https://img.shields.io/badge/OS-Windows_11-white?style=flat-square&logo=windows&color=0078d4)&nbsp;
-![MIUI](https://img.shields.io/badge/Android-MIUI-ff9600?style=flat-square&logo=xiaomi&logoColor=ffffff)&nbsp;
-
-## ⏲️ 时区、联系时间和语言
-
 - 🌎 时区: GMT+8
-- ⚡ 联系时间: 24小时内回复
 - 🏁 语言
   - ![zh_CN](https://img.shields.io/badge/Chinese_(Simplified)-4abf8a?style=flat-square&label=🏠简体中文)&nbsp;
   - ![en_US](https://img.shields.io/badge/English_(US)-4abf8a?logo=&style=flat-square&label=English)
   - ~~![ja_JP](https://img.shields.io/badge/Japanese-4abf8a?logo=&style=flat-square&label=日本語)~~
+
+## 🖥️ 操作系统与设备
+
+![Windows 11](https://img.shields.io/badge/OS-Windows_11-white?style=flat-square&logo=windows&color=0078d4)&nbsp;
+![MIUI](https://img.shields.io/badge/Android-MIUI-ff9600?style=flat-square&logo=xiaomi&logoColor=ffffff)&nbsp;
 
 ## 📱 如何找到我 (/≧▽≦)/
 
