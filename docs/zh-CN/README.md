@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: 关于我
+heroText: Ciallo～(∠・ω< )⌒★！
 heroAlt: LLKawi
 tagline: 也可以叫我： 唯雨, OnlyRain233, AmeChirin, 唯雨233, 卡威LLKawi
 
@@ -22,7 +22,7 @@ actions:
 
 <div style="text-align: center">
 <img src="https://cravatar.cn/avatar/949b4b017cd9c5b03ec65cfc715c17ec?s=250" alt="Avatar" style="border-radius: 50%">
-<h3>Ciallo～(∠・ω< )⌒★！这里是卡威LLKawi！</h3>
+<h3>你好陌生人！这里是卡威LLKawi！</h3>
 </div>
 
 ---
