@@ -1,8 +1,8 @@
 ---
 home: true
 heroText: Ciallo～(∠・ω< )⌒★！
-heroAlt: LLKawi
-tagline: 也可以叫我： 唯雨, OnlyRain233, AmeChirin, 唯雨233, 卡威LLKawi
+heroAlt: 澪咖LLKawi
+tagline: 曾经用过的ID：唯雨, OnlyRain233, AmeChirin, 唯雨233
 
 actions:
   - text: 关于我
