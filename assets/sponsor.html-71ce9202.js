@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-85cdd910","path":"/sponsor.html","title":"☕ Sponsor me!","lang":"English","frontmatter":{},"headers":[],"git":{"updatedTime":1702232633000,"contributors":[{"name":"LLKawi","email":"me@onlyra1n.top","commits":1}]},"filePathRelative":"sponsor.md"}');export{t as data};
