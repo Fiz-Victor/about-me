@@ -23,6 +23,7 @@ actions:
 <div style="text-align: center">
 <img src="https://cravatar.cn/avatar/949b4b017cd9c5b03ec65cfc715c17ec?s=250" alt="Avatar" style="border-radius: 50%">
 <h3>认清现实，放弃幻想。</h3>
+<h3>“终有一天，我们的梦想将会会实现”</h3>
 </div>
 
 ---
