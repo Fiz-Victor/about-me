@@ -2,7 +2,7 @@
 
 ## 🔭 About me
 
-An average high school student ♂️ (in school), living in China 🇨🇳 16 y/o
+An average high school student ♂️ (in school) 16 y/o
 
 - 🌎 GMT+8
 - 🏁 Language
