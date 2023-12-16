@@ -2,12 +2,12 @@
 
 ## 支付宝
 
-![Alipay](https://qr.alipay.com/a6x10429ivzely9vxmzhwae)
+:construction: 建设中...
 
-## V我50！
+## 微信
 
 :construction: 建设中...
 
-## 爱发电！
+## 爱发电！（加上我的一些作品的下载）
 
 - [![爱发电](https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-white?&style=for-the-badge)](https://www.afdian.net/a/llkawi)
