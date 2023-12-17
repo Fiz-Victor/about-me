@@ -2,7 +2,7 @@
 home: true
 heroText: Ciallo～(∠・ω< )⌒★！
 heroAlt: 澪LLKawi
-tagline: 用过的ID：唯雨, OnlyRain233, 日常路过的澪
+tagline: 用过的ID：唯雨, OnlyRain233, 一般路过的澪
 
 actions:
   - text: 关于我
