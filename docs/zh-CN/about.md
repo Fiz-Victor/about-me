@@ -4,7 +4,7 @@
 
 16岁 ♂️ | 平平无奇高中生（坐牢中）
 
-想整个大活
+想整个大活 | 选择困难症 | 社交能力一般
 
 不定期复活 | Music Lover | Coding | Pigeon
 
@@ -87,6 +87,8 @@
 ## 🎮 我玩些什么？
 
 > **你说的对，但我不玩原神**
+
+电子阳痿中
 
 - ![Minecraft](https://img.shields.io/badge/14年入坑的MC老玩家-@lkwi-green?&style=for-the-badge)
 -  [![死题目](https://img.shields.io/badge/Steam-@victor__www-136da0?&style=for-the-badge&logo=steam)](https://steamcommunity.com/id/victor_www)
