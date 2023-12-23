@@ -11,7 +11,7 @@ export default defineUserConfig({
         },
         '/zh-CN/': {
             lang: '中文',
-            title: "卡威LLKawi",
+            title: "LLKawi",
             description: "Ciallo～(∠・ω< )⌒★！",
         },
     },
