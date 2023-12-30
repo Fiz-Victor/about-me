@@ -1,8 +1,8 @@
 ---
 home: true
 heroText: Ciallo～(∠・ω< )⌒★！
-heroAlt: LLKawi
-tagline: "AKA: Mio~LLKawi, OnlyRain233"
+heroAlt: LazMio
+tagline: "AKA: OnlyRain233"
 
 actions:
   - text: About me

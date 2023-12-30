@@ -1,8 +1,8 @@
 ---
 home: true
 heroText: Ciallo～(∠・ω< )⌒★！
-heroAlt: 澪LLKawi
-tagline: 其他的ID：OnlyRain233, 一般路过的澪, LLKawi
+heroAlt: 一般路过の澪
+tagline: 其他的ID：OnlyRain233, LazMio, ラズミオ
 
 actions:
   - text: 关于我
