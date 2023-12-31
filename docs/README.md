@@ -1,8 +1,8 @@
 ---
 home: true
 heroText: Ciallo～(∠・ω< )⌒★！
-heroAlt: LazMio
-tagline: "AKA: OnlyRain233"
+heroAlt: 1azMio
+tagline: "AKA: LazMio, OnlyRain233"
 
 actions:
   - text: About me
@@ -18,7 +18,7 @@ actions:
 
 <div style="text-align: center">
 <img src="https://cravatar.cn/avatar/949b4b017cd9c5b03ec65cfc715c17ec?s=250" alt="Avatar" style="border-radius: 50%">
-<h3>Hi, Stranger！This is LLKawi!</h3>
+<h3>2！0！2！4！Happy new year to all of you~</h3>
 </div>
 
 ---

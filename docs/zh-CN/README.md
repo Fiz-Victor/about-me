@@ -1,8 +1,8 @@
 ---
 home: true
 heroText: Ciallo～(∠・ω< )⌒★！
-heroAlt: 一般路过の澪
-tagline: 其他的ID：OnlyRain233, LazMio, ラズミオ
+heroAlt: 一般路过の澪-1azMio
+tagline: 其他的ID：OnlyRain233, , LazMio
 
 actions:
   - text: 关于我
@@ -18,7 +18,7 @@ actions:
 
 <div style="text-align: center">
 <img src="https://cravatar.cn/avatar/949b4b017cd9c5b03ec65cfc715c17ec?s=250" alt="Avatar" style="border-radius: 50%">
-<h3>认清现实，放弃幻想</h3>
+<h3>2！0！2！4！大家新年快乐呐~</h3></h3>
 </div>
 
 ---

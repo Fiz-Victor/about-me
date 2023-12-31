@@ -8,7 +8,7 @@
 
 不定期复活 | Music Lover | Coding | Pigeon
 
-话不多说，开摆！(Bushi
+摆烂ing...
 
 - 🌎 时区: GMT+8
 - 🏁 语言
@@ -20,6 +20,7 @@
 
 ![Windows 11](https://img.shields.io/badge/OS-Windows_11-white?style=flat-square&logo=windows&color=0078d4)&nbsp;
 ![MIUI](https://img.shields.io/badge/Android-MIUI-ff9600?style=flat-square&logo=xiaomi&logoColor=ffffff)&nbsp;
+![RedMi K60](https://img.shields.io/badge/Android-MIUI-ff9600?style=flat-square&logo=xiaomi&logoColor=ffffff)&nbsp;
 
 ## 📱 如何找到我 (/≧▽≦)/
 
