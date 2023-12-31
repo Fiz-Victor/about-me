@@ -2,7 +2,7 @@
 home: true
 heroText: Ciallo～(∠・ω< )⌒★！
 heroAlt: 一般路过の澪-1azMio
-tagline: 其他的ID：OnlyRain233, , LazMio
+tagline: "AKA: OnlyRain233, LazMio"
 
 actions:
   - text: 关于我
