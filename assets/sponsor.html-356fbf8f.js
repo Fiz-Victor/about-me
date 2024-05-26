@@ -1,0 +1,1 @@
+import{_ as a,o,c as s,a as e,b as t}from"./app-458739b2.js";const n={},r=e("h1",{id:"我很可爱-请给我-qia-钱-fan",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#我很可爱-请给我-qia-钱-fan","aria-hidden":"true"},"#"),t(" ☕ 我很可爱，请给我(qia)钱(fan)！")],-1),c=[r];function _(i,d){return o(),s("div",null,c)}const h=a(n,[["render",_],["__file","sponsor.html.vue"]]);export{h as default};
