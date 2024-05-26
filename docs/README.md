@@ -16,15 +16,6 @@ actions:
     link: ./sponsor/
 ---
 
-<!--
-<div style="text-align: center">
-<img src="https://cravatar.cn/avatar/949b4b017cd9c5b03ec65cfc715c17ec?s=250" alt="Avatar" style="border-radius: 50%">
-<h3>Zzz...</h3>
-</div>
--->
-
----
-
 <div style="text-align: center;">
     <h3>Visitor Count：</h3>
     <img src="https://moe-counter.glitch.me/get/@6475578645547358?theme=moebooru" alt="Visitor Count">

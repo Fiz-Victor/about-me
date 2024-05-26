@@ -16,12 +16,6 @@ actions:
     link: ./sponsor/
 ---
 
-<div style="text-align: center">
-<img src="https://cravatar.cn/avatar/949b4b017cd9c5b03ec65cfc715c17ec?s=250" alt="Avatar" style="border-radius: 50%">
-<h3>2！0！2！4！大家新年快乐呐~</h3>
-</div>
-
----
 
 <div style="text-align: center;">
     <h3>↓访问计数在这里↓</h3>
