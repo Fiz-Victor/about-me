@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as o,a as e,b as c}from"./app-bdce832a.js";const r={},s=e("h1",{id:"这里啥也木有",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#这里啥也木有","aria-hidden":"true"},"#"),c(" 这里啥也木有...")],-1),n=[s];function _(d,i){return a(),o("div",null,n)}const l=t(r,[["render",_],["__file","about.html.vue"]]);export{l as default};

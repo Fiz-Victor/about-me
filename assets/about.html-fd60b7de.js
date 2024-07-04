@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4fd86e2a","path":"/zh-CN/about.html","title":"Nothing to see here...","lang":"中文","frontmatter":{},"headers":[],"git":{"updatedTime":1720080256000,"contributors":[{"name":"Hexadecimal233","email":"me@onlyra1n.top","commits":1}]},"filePathRelative":"zh-CN/about.md"}');export{e as data};

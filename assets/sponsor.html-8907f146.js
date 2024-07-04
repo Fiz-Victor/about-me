@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-705db73d","path":"/zh-CN/sponsor.html","title":"☕ 我很可爱，请给我(qia)钱(fan)！","lang":"中文","frontmatter":{},"headers":[],"git":{"updatedTime":1716697444000,"contributors":[{"name":"Hexadecimal233","email":"me@onlyra1n.top","commits":1}]},"filePathRelative":"zh-CN/sponsor.md"}');export{t as data};
