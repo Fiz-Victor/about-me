@@ -1,0 +1,1 @@
+import{_ as t,o,c as a,a as e,b as n}from"./app-42f60183.js";const r={},s=e("h1",{id:"nothing-to-see-here",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#nothing-to-see-here","aria-hidden":"true"},"#"),n(" Nothing to see here...")],-1),c=[s];function h(_,i){return o(),a("div",null,c)}const l=t(r,[["render",h],["__file","about.html.vue"]]);export{l as default};
