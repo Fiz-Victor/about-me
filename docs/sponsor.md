@@ -1,3 +1,0 @@
-# :coffee: Sponsor me!
-
-

@@ -6,13 +6,13 @@ export default defineUserConfig({
     locales: {
         '/': {
             lang: 'English',
-            title: "LLKawi",
+            title: "Pheqor",
             description: "About me",
         },
         '/zh-CN/': {
             lang: '中文',
-            title: "LLKawi",
-            description: "Ciallo～(∠・ω< )⌒★！",
+            title: "Pheqor",
+            description: "我是谁..?",
         },
     },
     head: [
@@ -21,8 +21,7 @@ export default defineUserConfig({
     theme: defaultTheme(
         {
             navbar: [
-                { text: 'About', link: '/about/' },
-                { text: 'Sponsor', link: '/sponsor/' }
+                { text: 'About', link: '/about/' }
             ],
         }
     ),

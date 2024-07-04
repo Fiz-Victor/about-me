@@ -8,12 +8,9 @@ actions:
   - text: About me
     type: primary
     link: ./about/
-  - text: My Blogs
+  - text: My Blog
     type: secondary
     link: https://me.onlyra1n.top
-  - text: Sponsor me!
-    type: secondary
-    link: ./sponsor/
 ---
 
 <div style="text-align: center;">
