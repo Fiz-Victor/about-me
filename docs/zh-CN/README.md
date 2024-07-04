@@ -5,10 +5,10 @@ heroAlt: Homepage under maintenance
 tagline: "TBA"
 
 actions:
-  - text: About me
+  - text: 关于
     type: primary
     link: ./about/
-  - text: My Blog
+  - text: 博客
     type: secondary
     link: https://me.onlyra1n.top
 ---
